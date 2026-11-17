@@ -8,7 +8,7 @@ No build step. Static HTML + CSS + vanilla JS; every page renders from `data/*.j
 node serve.js        # http://localhost:4179
 ```
 
-Deployed on Vercel (`vercel.json` enables clean URLs).
+Live at https://dhoni-tribute-7.vercel.app (Vercel; `vercel.json` enables clean URLs).
 
 ## Data sources
 - Headline totals: ICC Hall of Fame citation (June 2025), ESPNcricinfo player records.
