@@ -1,0 +1,883 @@
+[
+  {
+    "id": "img-01",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d5/MS_Dhoni_%28Prabhav_%2723_-_RiGI_2023%29.jpg",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/d/d5/MS_Dhoni_%28Prabhav_%2723_-_RiGI_2023%29.jpg",
+    "w": 788,
+    "h": 1051,
+    "caption": "MS Dhoni speaking on a panel at the Prabhav '23 event organised by RIGI, October 2023.",
+    "alt": "Close portrait of MS Dhoni in a black polo shirt holding a microphone on stage, long hair, dark backdrop with gold lettering.",
+    "date": "2023-10-27",
+    "author": "RIGI",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:MS_Dhoni_(Prabhav_'23_-_RiGI_2023).jpg",
+    "era": "beyond",
+    "tags": [
+      "personal",
+      "retirement"
+    ],
+    "hero": true
+  },
+  {
+    "id": "img-02",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/MS_Dhoni_2016.jpg/1280px-MS_Dhoni_2016.jpg",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/5/5e/MS_Dhoni_2016.jpg",
+    "w": 1280,
+    "h": 1711,
+    "caption": "MS Dhoni in India team blazer at a FINACT function in Canberra during India's tour of Australia, January 2016.",
+    "alt": "Smiling MS Dhoni in a dark Team India blazer, white shirt and navy tie, indoors.",
+    "date": "2016-01-19",
+    "author": "Amardeep Singh",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:MS_Dhoni_2016.jpg",
+    "era": "finisher",
+    "tags": [
+      "personal",
+      "captaincy"
+    ]
+  },
+  {
+    "id": "img-03",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/41/Mahendra_Singh_Dhoni_January_2016.jpg",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/4/41/Mahendra_Singh_Dhoni_January_2016.jpg",
+    "w": 585,
+    "h": 760,
+    "caption": "MS Dhoni in team blazer at Mumbai airport, January 2016, as photographed by Bollywood Hungama.",
+    "alt": "MS Dhoni walking through an airport in a navy suit and tie carrying a passport, security staff behind him.",
+    "date": "2016-01-05",
+    "author": "Bollywood Hungama",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mahendra_Singh_Dhoni_January_2016.jpg",
+    "era": "finisher",
+    "tags": [
+      "personal",
+      "captaincy"
+    ]
+  },
+  {
+    "id": "img-04",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/16/Mahendra_Singh_Dhoni_batting.JPG",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/1/16/Mahendra_Singh_Dhoni_batting.JPG",
+    "w": 1056,
+    "h": 528,
+    "caption": "MS Dhoni bats against South Africa, with AB de Villiers keeping, in India's opening match of the 2013 ICC Champions Trophy at Cardiff, 6 June 2013.",
+    "alt": "MS Dhoni in blue India kit driving a ball, South African wicketkeeper AB de Villiers crouched behind the stumps on a green outfield.",
+    "date": "2013-06-06",
+    "author": "Dee03",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mahendra_Singh_Dhoni_batting.JPG",
+    "era": "world-champion",
+    "tags": [
+      "batting",
+      "champions-trophy-2013"
+    ]
+  },
+  {
+    "id": "img-05",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Hayden_and_Dhoni.jpg/1280px-Hayden_and_Dhoni.jpg",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Hayden_and_Dhoni.jpg",
+    "w": 1280,
+    "h": 1568,
+    "caption": "MS Dhoni appeals for a stumping against Matthew Hayden during the CB Series final in Australia, 2 March 2008.",
+    "alt": "MS Dhoni in light-blue ODI kit and helmet pointing with gloved hand behind the stumps as Matthew Hayden crouches at the crease.",
+    "date": "2008-03-02",
+    "author": "Matt Dawson",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Hayden_and_Dhoni.jpg",
+    "era": "captain-cool",
+    "tags": [
+      "wicketkeeping",
+      "captaincy"
+    ]
+  },
+  {
+    "id": "img-06",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Ricky_Ponting%26Dhoni_toss.jpg/1280px-Ricky_Ponting%26Dhoni_toss.jpg",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/0/07/Ricky_Ponting%26Dhoni_toss.jpg",
+    "w": 1280,
+    "h": 976,
+    "caption": "Ricky Ponting and MS Dhoni at the toss before the India v Australia ODI at the MCG, 10 February 2008.",
+    "alt": "Two cricket captains standing on the pitch at the coin toss, one in yellow Australian kit and one in blue Indian kit.",
+    "date": "2008-02-10",
+    "author": "Flying Cloud",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ricky_Ponting%26Dhoni_toss.jpg",
+    "era": "captain-cool",
+    "tags": [
+      "captaincy"
+    ]
+  },
+  {
+    "id": "img-07",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Mahendra_Singh_Dhoni_1.jpg",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Mahendra_Singh_Dhoni_1.jpg",
+    "w": 1024,
+    "h": 768,
+    "caption": "MS Dhoni during the fourth Test of India's 2007-08 series against Australia at Adelaide Oval, 26 January 2008.",
+    "alt": "MS Dhoni in white Test kit on the field at Adelaide Oval.",
+    "date": "2008-01-26",
+    "author": "Riana",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mahendra_Singh_Dhoni_1.jpg",
+    "era": "captain-cool",
+    "tags": [
+      "wicketkeeping"
+    ]
+  },
+  {
+    "id": "img-08",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/27/Matthew_Hayden%2C_MS_Dhoni.jpg",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/2/27/Matthew_Hayden%2C_MS_Dhoni.jpg",
+    "w": 768,
+    "h": 1024,
+    "caption": "Matthew Hayden stands in front of wicketkeeper MS Dhoni during the Adelaide Test, India tour of Australia, 26 January 2008.",
+    "alt": "Australian batsman Matthew Hayden at the crease with MS Dhoni keeping behind him, Adelaide Oval.",
+    "date": "2008-01-26",
+    "author": "Riana",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Matthew_Hayden,_MS_Dhoni.jpg",
+    "era": "captain-cool",
+    "tags": [
+      "wicketkeeping"
+    ]
+  },
+  {
+    "id": "img-09",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3b/MS_Dhoni_2.jpg",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/3/3b/MS_Dhoni_2.jpg",
+    "w": 1085,
+    "h": 1306,
+    "caption": "MS Dhoni with bat and helmet at Adelaide Oval during India's tour of Australia, 14 February 2008.",
+    "alt": "MS Dhoni in blue training top, cap and sunglasses holding a bat and helmet in front of a brick wall and trees.",
+    "date": "2008-02-14",
+    "author": "Blnguyen",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:MS_Dhoni_2.jpg",
+    "era": "captain-cool",
+    "tags": [
+      "personal",
+      "batting"
+    ]
+  },
+  {
+    "id": "img-10",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/The_Prime_Minister%2C_Dr._Manmohan_Singh_with_the_Captain_of_Twenty-Twenty_Cricket_Team%2C_Shri_M.S._Dhoni_in_New_Delhi_on_October_30%2C_2007.jpg/1280px-The_Prime_Minister%2C_Dr._Manmohan_Singh_with_the_Captain_of_Twenty-Twenty_Cricket_Team%2C_Shri_M.S._Dhoni_in_New_Delhi_on_October_30%2C_2007.jpg",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/1/17/The_Prime_Minister%2C_Dr._Manmohan_Singh_with_the_Captain_of_Twenty-Twenty_Cricket_Team%2C_Shri_M.S._Dhoni_in_New_Delhi_on_October_30%2C_2007.jpg",
+    "w": 1280,
+    "h": 813,
+    "caption": "Prime Minister Manmohan Singh with Twenty20 captain MS Dhoni in New Delhi on 30 October 2007, after India's ICC World Twenty20 win.",
+    "alt": "MS Dhoni in a dark suit with Prime Minister Manmohan Singh at a reception in New Delhi.",
+    "date": "2007-10-30",
+    "author": "Prime Minister's Office",
+    "license": "GODL-India",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Prime_Minister,_Dr._Manmohan_Singh_with_the_Captain_of_Twenty-Twenty_Cricket_Team,_Shri_M.S._Dhoni_in_New_Delhi_on_October_30,_2007.jpg",
+    "era": "captain-cool",
+    "tags": [
+      "world-t20-2007",
+      "captaincy",
+      "trophy"
+    ]
+  },
+  {
+    "id": "img-11",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Tejendra_Khanna_felicitating_the_Captain_of_Indian_Cricket_Team%2C_Shri_Mahendra_Singh_Dhoni_after_winning_the_%E2%80%9CCB_ODI_tri-series%E2%80%9D%2C_in_Australia%2C_at_a_civic_reception%2C_in_Delhi_on_March_06%2C_2008.jpg/1280px-Tejendra_Khanna_felicitating_the_Captain_of_Indian_Cricket_Team%2C_Shri_Mahendra_Singh_Dhoni_after_winning_the_%E2%80%9CCB_ODI_tri-series%E2%80%9D%2C_in_Australia%2C_at_a_civic_reception%2C_in_Delhi_on_March_06%2C_2008.jpg",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/2/21/Tejendra_Khanna_felicitating_the_Captain_of_Indian_Cricket_Team%2C_Shri_Mahendra_Singh_Dhoni_after_winning_the_%E2%80%9CCB_ODI_tri-series%E2%80%9D%2C_in_Australia%2C_at_a_civic_reception%2C_in_Delhi_on_March_06%2C_2008.jpg",
+    "w": 1280,
+    "h": 845,
+    "caption": "Delhi Lt Governor Tejendra Khanna felicitates captain MS Dhoni at a civic reception after India's CB Series win in Australia, 6 March 2008.",
+    "alt": "MS Dhoni being garlanded and felicitated on stage at a civic reception in Delhi.",
+    "date": "2008-03-06",
+    "author": "Ministry of Youth Affairs and Sports",
+    "license": "GODL-India",
+    "source": "https://commons.wikimedia.org/wiki/File:Tejendra_Khanna_felicitating_the_Captain_of_Indian_Cricket_Team,_Shri_Mahendra_Singh_Dhoni_after_winning_the_%E2%80%9CCB_ODI_tri-series%E2%80%9D,_in_Australia,_at_a_civic_reception,_in_Delhi_on_March_06,_2008.jpg",
+    "era": "captain-cool",
+    "tags": [
+      "captaincy",
+      "trophy"
+    ]
+  },
+  {
+    "id": "img-12",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/The_President%2C_Smt._Pratibha_Devisingh_Patil_presenting_the_Rajiv_Gandhi_Khel_Ratna_Award_%E2%80%93_2007%2C_to_Shri_Mahendra_Singh_Dhoni_received_by_Shri_Pan_Singh_Dhoni_FO_Mahendra_Singh_Dhoni%2C_in_New_Delhi_on_August_29%2C_2008.jpg/1280px-The_President%2C_Smt._Pratibha_Devisingh_Patil_presenting_the_Rajiv_Gandhi_Khel_Ratna_Award_%E2%80%93_2007%2C_to_Shri_Mahendra_Singh_Dhoni_received_by_Shri_Pan_Singh_Dhoni_FO_Mahendra_Singh_Dhoni%2C_in_New_Delhi_on_August_29%2C_2008.jpg",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/5/56/The_President%2C_Smt._Pratibha_Devisingh_Patil_presenting_the_Rajiv_Gandhi_Khel_Ratna_Award_%E2%80%93_2007%2C_to_Shri_Mahendra_Singh_Dhoni_received_by_Shri_Pan_Singh_Dhoni_FO_Mahendra_Singh_Dhoni%2C_in_New_Delhi_on_August_29%2C_2008.jpg",
+    "w": 1280,
+    "h": 866,
+    "caption": "President Pratibha Patil presents the 2007 Rajiv Gandhi Khel Ratna, awarded to MS Dhoni, to his father Pan Singh Dhoni in New Delhi on 29 August 2008.",
+    "alt": "President Pratibha Patil handing an award to Pan Singh Dhoni at Rashtrapati Bhavan.",
+    "date": "2008-08-29",
+    "author": "President's Secretariat",
+    "license": "GODL-India",
+    "source": "https://commons.wikimedia.org/wiki/File:The_President,_Smt._Pratibha_Devisingh_Patil_presenting_the_Rajiv_Gandhi_Khel_Ratna_Award_%E2%80%93_2007,_to_Shri_Mahendra_Singh_Dhoni_received_by_Shri_Pan_Singh_Dhoni_FO_Mahendra_Singh_Dhoni,_in_New_Delhi_on_August_29,_2008.jpg",
+    "era": "captain-cool",
+    "tags": [
+      "personal"
+    ]
+  },
+  {
+    "id": "img-13",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Chennai_Super_Kings.jpg/1280px-Chennai_Super_Kings.jpg",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Chennai_Super_Kings.jpg",
+    "w": 1280,
+    "h": 756,
+    "caption": "Chennai Super Kings players after beating Kings XI Punjab at Wankhede Stadium, Mumbai, in the 2008 IPL semi-final, 31 May 2008.",
+    "alt": "Chennai Super Kings players in yellow on the field at Wankhede Stadium under floodlights.",
+    "date": "2008-05-31",
+    "author": "Ashwin John",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chennai_Super_Kings.jpg",
+    "era": "captain-cool",
+    "tags": [
+      "csk",
+      "venue"
+    ]
+  },
+  {
+    "id": "img-14",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/45/The_Wanderers_1.jpg/1280px-The_Wanderers_1.jpg",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/4/45/The_Wanderers_1.jpg",
+    "w": 1280,
+    "h": 857,
+    "caption": "The Wanderers Stadium, Johannesburg, during the opening match of the 2007 ICC World Twenty20, 11 September 2007; the venue of India's final win.",
+    "alt": "Floodlit Wanderers Stadium bowl at night, packed stands.",
+    "date": "2007-09-11",
+    "author": "Charles from Sandton, South Africa",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Wanderers_1.jpg",
+    "era": "captain-cool",
+    "tags": [
+      "venue",
+      "world-t20-2007"
+    ]
+  },
+  {
+    "id": "img-15",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Dhoni_behind_Stumps.jpg",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Dhoni_behind_Stumps.jpg",
+    "w": 761,
+    "h": 606,
+    "caption": "MS Dhoni keeping wicket on day two of the second Test of the 2010-11 Border-Gavaskar Trophy.",
+    "alt": "MS Dhoni crouched behind the stumps in white Test kit and helmet.",
+    "date": "2010",
+    "author": "Pulkitsinha",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dhoni_behind_Stumps.jpg",
+    "era": "captain-cool",
+    "tags": [
+      "wicketkeeping"
+    ]
+  },
+  {
+    "id": "img-16",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Chidambaram_stadium_after_renovation.jpg/1280px-Chidambaram_stadium_after_renovation.jpg",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/2/25/Chidambaram_stadium_after_renovation.jpg",
+    "w": 1280,
+    "h": 800,
+    "caption": "The M. A. Chidambaram Stadium (Chepauk), Chennai, home of Chennai Super Kings, after its renovation, 30 December 2010.",
+    "alt": "Wide view of Chepauk stadium stands and outfield in daylight.",
+    "date": "2010-12-30",
+    "author": "Ashwin Kumar",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chidambaram_stadium_after_renovation.jpg",
+    "era": "captain-cool",
+    "tags": [
+      "venue",
+      "csk"
+    ]
+  },
+  {
+    "id": "img-17",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Wankhede_ICC_WCF.jpg/1280px-Wankhede_ICC_WCF.jpg",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Wankhede_ICC_WCF.jpg",
+    "w": 1280,
+    "h": 960,
+    "caption": "Wankhede Stadium, Mumbai, during the first innings of the 2011 Cricket World Cup final between India and Sri Lanka, 2 April 2011.",
+    "alt": "Floodlit Wankhede Stadium during the 2011 World Cup final, full stands and green outfield.",
+    "date": "2011-04-02",
+    "author": "G patkar",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wankhede_ICC_WCF.jpg",
+    "era": "world-champion",
+    "tags": [
+      "venue",
+      "world-cup-2011"
+    ]
+  },
+  {
+    "id": "img-18",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Wankhede_Panoramic_ICC_WCF.jpg/1280px-Wankhede_Panoramic_ICC_WCF.jpg",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Wankhede_Panoramic_ICC_WCF.jpg",
+    "w": 1280,
+    "h": 234,
+    "caption": "Panorama of Wankhede Stadium during the first innings of the 2011 ICC World Cup final, 2 April 2011.",
+    "alt": "Panoramic shot of the Wankhede Stadium bowl at night during the 2011 World Cup final.",
+    "date": "2011-04-02",
+    "author": "G patkar",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wankhede_Panoramic_ICC_WCF.jpg",
+    "era": "world-champion",
+    "tags": [
+      "venue",
+      "world-cup-2011"
+    ]
+  },
+  {
+    "id": "img-19",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Wankhede_stadium_world_cup_2011.jpg",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Wankhede_stadium_world_cup_2011.jpg",
+    "w": 1200,
+    "h": 1600,
+    "caption": "Wankhede Stadium after India won the 2011 World Cup final, late on 2 April 2011.",
+    "alt": "Wankhede Stadium at night after the 2011 final, crowd and lights.",
+    "date": "2011-04-02",
+    "author": "Piyush2t",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wankhede_stadium_world_cup_2011.jpg",
+    "era": "world-champion",
+    "tags": [
+      "venue",
+      "world-cup-2011"
+    ]
+  },
+  {
+    "id": "img-20",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/People_celebrating_India%27s_CWC11_win_%288310811320%29.jpg/1280px-People_celebrating_India%27s_CWC11_win_%288310811320%29.jpg",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/e/e6/People_celebrating_India%27s_CWC11_win_%288310811320%29.jpg",
+    "w": 1280,
+    "h": 732,
+    "caption": "Fans in Kolkata celebrate India's 2011 Cricket World Cup win on the night of 2 April 2011.",
+    "alt": "Crowd of fans waving Indian flags on the street at night.",
+    "date": "2011-04-02",
+    "author": "Bilwanath Chatterjee from Kolkata, India",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:People_celebrating_India's_CWC11_win_(8310811320).jpg",
+    "era": "world-champion",
+    "tags": [
+      "world-cup-2011"
+    ]
+  },
+  {
+    "id": "img-21",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/The_President%2C_Smt._Pratibha_Devisingh_Patil_greeting_the_Indian_Cricket_Team_Captain_M.S._Dhoni%2C_at_Maharashtra_Raj_Bhavan%2C_in_Mumbai_on_April_03%2C_2011.jpg/1280px-The_President%2C_Smt._Pratibha_Devisingh_Patil_greeting_the_Indian_Cricket_Team_Captain_M.S._Dhoni%2C_at_Maharashtra_Raj_Bhavan%2C_in_Mumbai_on_April_03%2C_2011.jpg",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/8/84/The_President%2C_Smt._Pratibha_Devisingh_Patil_greeting_the_Indian_Cricket_Team_Captain_M.S._Dhoni%2C_at_Maharashtra_Raj_Bhavan%2C_in_Mumbai_on_April_03%2C_2011.jpg",
+    "w": 1280,
+    "h": 914,
+    "caption": "President Pratibha Patil greets India captain MS Dhoni at Maharashtra Raj Bhavan, Mumbai, the day after the World Cup win, 3 April 2011.",
+    "alt": "MS Dhoni in team blazer shaking hands with President Pratibha Patil.",
+    "date": "2011-04-03",
+    "author": "President's Secretariat",
+    "license": "GODL-India",
+    "source": "https://commons.wikimedia.org/wiki/File:The_President,_Smt._Pratibha_Devisingh_Patil_greeting_the_Indian_Cricket_Team_Captain_M.S._Dhoni,_at_Maharashtra_Raj_Bhavan,_in_Mumbai_on_April_03,_2011.jpg",
+    "era": "world-champion",
+    "tags": [
+      "world-cup-2011",
+      "captaincy"
+    ]
+  },
+  {
+    "id": "img-22",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/The_President%2C_Smt._Pratibha_Devisingh_Patil_greeting_the_Indian_Cricket_Team%2C_for_winning_the_World_Cup_2011%2C_at_Maharashtra_Raj_Bhavan%2C_in_Mumbai_on_April_03%2C_2011.jpg/1280px-The_President%2C_Smt._Pratibha_Devisingh_Patil_greeting_the_Indian_Cricket_Team%2C_for_winning_the_World_Cup_2011%2C_at_Maharashtra_Raj_Bhavan%2C_in_Mumbai_on_April_03%2C_2011.jpg",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/7/7c/The_President%2C_Smt._Pratibha_Devisingh_Patil_greeting_the_Indian_Cricket_Team%2C_for_winning_the_World_Cup_2011%2C_at_Maharashtra_Raj_Bhavan%2C_in_Mumbai_on_April_03%2C_2011.jpg",
+    "w": 1280,
+    "h": 949,
+    "caption": "President Pratibha Patil greets the World Cup-winning Indian team at Maharashtra Raj Bhavan, Mumbai, 3 April 2011.",
+    "alt": "The Indian cricket team in blazers lined up with President Pratibha Patil and officials.",
+    "date": "2011-04-03",
+    "author": "President's Secretariat",
+    "license": "GODL-India",
+    "source": "https://commons.wikimedia.org/wiki/File:The_President,_Smt._Pratibha_Devisingh_Patil_greeting_the_Indian_Cricket_Team,_for_winning_the_World_Cup_2011,_at_Maharashtra_Raj_Bhavan,_in_Mumbai_on_April_03,_2011.jpg",
+    "era": "world-champion",
+    "tags": [
+      "world-cup-2011",
+      "trophy"
+    ]
+  },
+  {
+    "id": "img-23",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Manmohan_Singh_and_the_Prime_Minister_of_Pakistan%2C_Mr._Yousuf_Raza_Gilani_interacting_with_the_Indian_Cricket_Team_at_the_Indo-Pak_World_Cup_semi-final%2C_at_the_Punjab_Cricket_Association_stadium%2C_in_Mohali_on_March_30%2C_2011.jpg/1280px-Manmohan_Singh_and_the_Prime_Minister_of_Pakistan%2C_Mr._Yousuf_Raza_Gilani_interacting_with_the_Indian_Cricket_Team_at_the_Indo-Pak_World_Cup_semi-final%2C_at_the_Punjab_Cricket_Association_stadium%2C_in_Mohali_on_March_30%2C_2011.jpg",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Manmohan_Singh_and_the_Prime_Minister_of_Pakistan%2C_Mr._Yousuf_Raza_Gilani_interacting_with_the_Indian_Cricket_Team_at_the_Indo-Pak_World_Cup_semi-final%2C_at_the_Punjab_Cricket_Association_stadium%2C_in_Mohali_on_March_30%2C_2011.jpg",
+    "w": 1280,
+    "h": 1021,
+    "caption": "Prime Ministers Manmohan Singh and Yousuf Raza Gilani meet the Indian team before the India-Pakistan World Cup semi-final at Mohali, 30 March 2011.",
+    "alt": "Indian cricketers in blue shaking hands with two prime ministers on the outfield at Mohali.",
+    "date": "2011-03-30",
+    "author": "Prime Minister's Office",
+    "license": "GODL-India",
+    "source": "https://commons.wikimedia.org/wiki/File:Manmohan_Singh_and_the_Prime_Minister_of_Pakistan,_Mr._Yousuf_Raza_Gilani_interacting_with_the_Indian_Cricket_Team_at_the_Indo-Pak_World_Cup_semi-final,_at_the_Punjab_Cricket_Association_stadium,_in_Mohali_on_March_30,_2011.jpg",
+    "era": "world-champion",
+    "tags": [
+      "world-cup-2011",
+      "captaincy"
+    ]
+  },
+  {
+    "id": "img-24",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Indian_Skipper_M.S._Dhoni_meeting_the_Chief_of_Army_Staff%2C_General_V.K._Singh%2C_in_New_Delhi_on_April_05%2C_2011.jpg/1280px-Indian_Skipper_M.S._Dhoni_meeting_the_Chief_of_Army_Staff%2C_General_V.K._Singh%2C_in_New_Delhi_on_April_05%2C_2011.jpg",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/6/6c/Indian_Skipper_M.S._Dhoni_meeting_the_Chief_of_Army_Staff%2C_General_V.K._Singh%2C_in_New_Delhi_on_April_05%2C_2011.jpg",
+    "w": 1280,
+    "h": 989,
+    "caption": "India captain MS Dhoni meets Chief of Army Staff General V.K. Singh in New Delhi, 5 April 2011.",
+    "alt": "MS Dhoni in a suit shaking hands with General V.K. Singh in uniform.",
+    "date": "2011-04-05",
+    "author": "Ministry of Defence",
+    "license": "GODL-India",
+    "source": "https://commons.wikimedia.org/wiki/File:Indian_Skipper_M.S._Dhoni_meeting_the_Chief_of_Army_Staff,_General_V.K._Singh,_in_New_Delhi_on_April_05,_2011.jpg",
+    "era": "world-champion",
+    "tags": [
+      "army",
+      "world-cup-2011"
+    ]
+  },
+  {
+    "id": "img-25",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/The_Chief_of_Army_Staff%2C_Gen._V.K._Singh_pipping_in_the_Rank_of_Hon._Lt._Col._to_Indian_Skipper_M.S._Dhoni%2C_in_New_Delhi_on_November_01%2C_2011.jpg/1280px-The_Chief_of_Army_Staff%2C_Gen._V.K._Singh_pipping_in_the_Rank_of_Hon._Lt._Col._to_Indian_Skipper_M.S._Dhoni%2C_in_New_Delhi_on_November_01%2C_2011.jpg",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/b/bb/The_Chief_of_Army_Staff%2C_Gen._V.K._Singh_pipping_in_the_Rank_of_Hon._Lt._Col._to_Indian_Skipper_M.S._Dhoni%2C_in_New_Delhi_on_November_01%2C_2011.jpg",
+    "w": 1280,
+    "h": 800,
+    "caption": "General V.K. Singh pips the rank of Honorary Lieutenant Colonel (Territorial Army) on MS Dhoni in New Delhi, 1 November 2011.",
+    "alt": "MS Dhoni in army uniform having rank insignia pinned on by General V.K. Singh.",
+    "date": "2011-11-01",
+    "author": "Ministry of Defence",
+    "license": "GODL-India",
+    "source": "https://commons.wikimedia.org/wiki/File:The_Chief_of_Army_Staff,_Gen._V.K._Singh_pipping_in_the_Rank_of_Hon._Lt._Col._to_Indian_Skipper_M.S._Dhoni,_in_New_Delhi_on_November_01,_2011.jpg",
+    "era": "world-champion",
+    "tags": [
+      "army"
+    ]
+  },
+  {
+    "id": "img-26",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Australia_v_India_Dhoni%2C_Tendulkar_%26_Shewag_%286785068188%29.jpg/1280px-Australia_v_India_Dhoni%2C_Tendulkar_%26_Shewag_%286785068188%29.jpg",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/8/84/Australia_v_India_Dhoni%2C_Tendulkar_%26_Shewag_%286785068188%29.jpg",
+    "w": 1280,
+    "h": 853,
+    "caption": "MS Dhoni, Sachin Tendulkar and Virender Sehwag during an Australia v India match in the 2012 CB Series, 26 February 2012.",
+    "alt": "MS Dhoni, Sachin Tendulkar and Virender Sehwag in blue ODI kit on the field.",
+    "date": "2012-02-26",
+    "author": "vijay chennupati from sydney, australia",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Australia_v_India_Dhoni,_Tendulkar_%26_Shewag_(6785068188).jpg",
+    "era": "world-champion",
+    "tags": [
+      "captaincy"
+    ]
+  },
+  {
+    "id": "img-27",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Panorama_View_During_India_VS_Pakistan_ODI_Match.jpg/1280px-Panorama_View_During_India_VS_Pakistan_ODI_Match.jpg",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/e/ee/Panorama_View_During_India_VS_Pakistan_ODI_Match.jpg",
+    "w": 1280,
+    "h": 960,
+    "caption": "Chepauk, Chennai, during the India v Pakistan ODI on 30 December 2012, the match in which MS Dhoni scored an unbeaten 113.",
+    "alt": "Panoramic view of the M. A. Chidambaram Stadium crowd and floodlights during an ODI.",
+    "date": "2012-12-30",
+    "author": "Kaila5hravi",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Panorama_View_During_India_VS_Pakistan_ODI_Match.jpg",
+    "era": "world-champion",
+    "tags": [
+      "venue",
+      "batting"
+    ]
+  },
+  {
+    "id": "img-28",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/ICC_Champions_Trophy_-_Edgbaston_Cricket_Ground_%288923236186%29.jpg/1280px-ICC_Champions_Trophy_-_Edgbaston_Cricket_Ground_%288923236186%29.jpg",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/c/cd/ICC_Champions_Trophy_-_Edgbaston_Cricket_Ground_%288923236186%29.jpg",
+    "w": 1280,
+    "h": 960,
+    "caption": "ICC Champions Trophy 2013 branding outside Edgbaston Cricket Ground before the tournament, 2 June 2013.",
+    "alt": "Edgbaston stadium exterior with Champions Trophy 2013 signage, seen from the road.",
+    "date": "2013-06-02",
+    "author": "Elliott Brown from Birmingham, United Kingdom",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:ICC_Champions_Trophy_-_Edgbaston_Cricket_Ground_(8923236186).jpg",
+    "era": "world-champion",
+    "tags": [
+      "venue",
+      "champions-trophy-2013"
+    ]
+  },
+  {
+    "id": "img-29",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/IPL_T20_Chennai_vs_Kolkata.JPG/1280px-IPL_T20_Chennai_vs_Kolkata.JPG",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/6/67/IPL_T20_Chennai_vs_Kolkata.JPG",
+    "w": 1280,
+    "h": 857,
+    "caption": "Chennai Super Kings v Kolkata Knight Riders at Chepauk during IPL 2012, 26 April 2012.",
+    "alt": "Floodlit IPL match in progress at Chepauk with a yellow-clad crowd.",
+    "date": "2012-04-26",
+    "author": "Chandrachoodan Gopalakrishnan",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:IPL_T20_Chennai_vs_Kolkata.JPG",
+    "era": "world-champion",
+    "tags": [
+      "csk",
+      "venue"
+    ]
+  },
+  {
+    "id": "img-30",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Chepauk_during_a_IPL_match_in_2013.jpg/1280px-Chepauk_during_a_IPL_match_in_2013.jpg",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/7/78/Chepauk_during_a_IPL_match_in_2013.jpg",
+    "w": 1280,
+    "h": 960,
+    "caption": "Chepauk stadium, Chennai, during an IPL 2013 match, April 2013.",
+    "alt": "M. A. Chidambaram Stadium at night during an IPL match, floodlights and crowd.",
+    "date": "2013-04-28",
+    "author": "Rohithriaz",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Chepauk_during_a_IPL_match_in_2013.jpg",
+    "era": "world-champion",
+    "tags": [
+      "csk",
+      "venue"
+    ]
+  },
+  {
+    "id": "img-31",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/ICC_world_cup_%2816084305077%29.jpg/1280px-ICC_world_cup_%2816084305077%29.jpg",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/2/20/ICC_world_cup_%2816084305077%29.jpg",
+    "w": 1280,
+    "h": 1707,
+    "caption": "The ICC Cricket World Cup trophy on display in Sydney ahead of the 2015 World Cup, 7 January 2015.",
+    "alt": "Close-up of the gold-globe ICC Cricket World Cup trophy on a white plinth against a blue backdrop.",
+    "date": "2015-01-07",
+    "author": "vijay chennupati from sydney, australia",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:ICC_world_cup_(16084305077).jpg",
+    "era": "finisher",
+    "tags": [
+      "trophy"
+    ]
+  },
+  {
+    "id": "img-32",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Adelaide_Oval_%2823183793744%29.jpg/1280px-Adelaide_Oval_%2823183793744%29.jpg",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/7/72/Adelaide_Oval_%2823183793744%29.jpg",
+    "w": 1280,
+    "h": 848,
+    "caption": "Red skies over the redeveloped Adelaide Oval on the day India met Pakistan in their 2015 World Cup opener, 15 February 2015.",
+    "alt": "Adelaide Oval at dusk under a red sky, stands and floodlights.",
+    "date": "2015-02-15",
+    "author": "Rajiv Bhuttan",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Adelaide_Oval_(23183793744).jpg",
+    "era": "finisher",
+    "tags": [
+      "venue"
+    ]
+  },
+  {
+    "id": "img-33",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Jaydeep_Sarkar_with_MS_Dhoni.jpg/1280px-Jaydeep_Sarkar_with_MS_Dhoni.jpg",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/9/93/Jaydeep_Sarkar_with_MS_Dhoni.jpg",
+    "w": 1280,
+    "h": 854,
+    "caption": "MS Dhoni with director Jaydeep Sarkar on an advertisement shoot, 7 January 2014.",
+    "alt": "MS Dhoni in a navy blazer listening to a director gesturing in front of a green screen.",
+    "date": "2014-01-07",
+    "author": "Sarkar Jaydeep",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Jaydeep_Sarkar_with_MS_Dhoni.jpg",
+    "era": "finisher",
+    "tags": [
+      "personal"
+    ]
+  },
+  {
+    "id": "img-34",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/MS_Dhoni_at_LPU.jpg/1280px-MS_Dhoni_at_LPU.jpg",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/e/e8/MS_Dhoni_at_LPU.jpg",
+    "w": 1280,
+    "h": 880,
+    "caption": "MS Dhoni at the Lovely Professional University campus inaugurating a scholarship for young cricketers, 10 August 2016.",
+    "alt": "MS Dhoni on stage at a university event.",
+    "date": "2016-08-10",
+    "author": "Elispall",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:MS_Dhoni_at_LPU.jpg",
+    "era": "finisher",
+    "tags": [
+      "personal"
+    ]
+  },
+  {
+    "id": "img-35",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Wicketkeeping_kit_and_bat_of_MS_Dhoni_at_Blades_of_Glory_Cricket_Museum%2C_Pune.jpg/1280px-Wicketkeeping_kit_and_bat_of_MS_Dhoni_at_Blades_of_Glory_Cricket_Museum%2C_Pune.jpg",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/6/67/Wicketkeeping_kit_and_bat_of_MS_Dhoni_at_Blades_of_Glory_Cricket_Museum%2C_Pune.jpg",
+    "w": 1280,
+    "h": 720,
+    "caption": "MS Dhoni's wicketkeeping kit and bat displayed at the Blades of Glory Cricket Museum, Pune, November 2016.",
+    "alt": "Wicketkeeping gloves, pads and a bat displayed in a museum case.",
+    "date": "2016-11-14",
+    "author": "DesiBoy101",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wicketkeeping_kit_and_bat_of_MS_Dhoni_at_Blades_of_Glory_Cricket_Museum,_Pune.jpg",
+    "era": "finisher",
+    "tags": [
+      "wicketkeeping",
+      "personal"
+    ]
+  },
+  {
+    "id": "img-36",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/The_President%2C_Shri_Ram_Nath_Kovind_presenting_the_Padma_Bhushan_Award_to_Shri_M.S._Dhoni%2C_at_the_Civil_Investiture_Ceremony-II%2C_at_Rashtrapati_Bhavan%2C_in_New_Delhi_on_April_02%2C_2018.jpg/1280px-The_President%2C_Shri_Ram_Nath_Kovind_presenting_the_Padma_Bhushan_Award_to_Shri_M.S._Dhoni%2C_at_the_Civil_Investiture_Ceremony-II%2C_at_Rashtrapati_Bhavan%2C_in_New_Delhi_on_April_02%2C_2018.jpg",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/a/a4/The_President%2C_Shri_Ram_Nath_Kovind_presenting_the_Padma_Bhushan_Award_to_Shri_M.S._Dhoni%2C_at_the_Civil_Investiture_Ceremony-II%2C_at_Rashtrapati_Bhavan%2C_in_New_Delhi_on_April_02%2C_2018.jpg",
+    "w": 1280,
+    "h": 1154,
+    "caption": "MS Dhoni, in army uniform, receives the Padma Bhushan from President Ram Nath Kovind at the Civil Investiture Ceremony, Rashtrapati Bhavan, 2 April 2018.",
+    "alt": "Wide view of the Padma Bhushan investiture with MS Dhoni in uniform saluting before President Kovind.",
+    "date": "2018-04-02",
+    "author": "President's Secretariat",
+    "license": "GODL-India",
+    "source": "https://commons.wikimedia.org/wiki/File:The_President,_Shri_Ram_Nath_Kovind_presenting_the_Padma_Bhushan_Award_to_Shri_M.S._Dhoni,_at_the_Civil_Investiture_Ceremony-II,_at_Rashtrapati_Bhavan,_in_New_Delhi_on_April_02,_2018.jpg",
+    "era": "statesman",
+    "tags": [
+      "army",
+      "personal"
+    ]
+  },
+  {
+    "id": "img-37",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Dhoni_with_JalliKattu_Kalai.jpg/1280px-Dhoni_with_JalliKattu_Kalai.jpg",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/2/20/Dhoni_with_JalliKattu_Kalai.jpg",
+    "w": 1280,
+    "h": 960,
+    "caption": "A Pongal street kolam in Tamil Nadu depicting MS Dhoni riding a Jallikattu bull, January 2018, the year of CSK's return to the IPL.",
+    "alt": "Colourful pavement drawing of a man in a 'Dhoni' vest riding an orange bull, with Tamil lettering above.",
+    "date": "2018-01-15",
+    "author": "Sakthi.kuppumani",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Dhoni_with_JalliKattu_Kalai.jpg",
+    "era": "statesman",
+    "tags": [
+      "csk",
+      "personal"
+    ]
+  },
+  {
+    "id": "img-38",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/IPL_2018_-_CSK_vs_KXIP.jpg/1280px-IPL_2018_-_CSK_vs_KXIP.jpg",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/f/fe/IPL_2018_-_CSK_vs_KXIP.jpg",
+    "w": 1280,
+    "h": 962,
+    "caption": "Chennai Super Kings play Kings XI Punjab in Pune during IPL 2018, the season CSK returned and won the title, 20 May 2018.",
+    "alt": "IPL match in progress with Chennai Super Kings in yellow, seen from the stands.",
+    "date": "2018-05-20",
+    "author": "Arjun1001",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:IPL_2018_-_CSK_vs_KXIP.jpg",
+    "era": "statesman",
+    "tags": [
+      "csk"
+    ]
+  },
+  {
+    "id": "img-39",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Emirates_Old_Trafford_cricket_ground_-_geograph.org.uk_-_6257314.jpg",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Emirates_Old_Trafford_cricket_ground_-_geograph.org.uk_-_6257314.jpg",
+    "w": 1024,
+    "h": 683,
+    "caption": "Emirates Old Trafford, Manchester, venue of the 2019 World Cup semi-final that was MS Dhoni's last international match, September 2019.",
+    "alt": "Old Trafford cricket ground stands and pavilion in daylight.",
+    "date": "2019-09-04",
+    "author": "Richard Hoare",
+    "license": "CC BY-SA 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Emirates_Old_Trafford_cricket_ground_-_geograph.org.uk_-_6257314.jpg",
+    "era": "statesman",
+    "tags": [
+      "venue"
+    ]
+  },
+  {
+    "id": "img-40",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Thala_dhoni_meets_VJ_Thalapathy_in_2021.png",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/f/fa/Thala_dhoni_meets_VJ_Thalapathy_in_2021.png",
+    "w": 624,
+    "h": 380,
+    "caption": "MS Dhoni meets Chennai Super Kings brand ambassador, actor Vijay, in 2021, the year CSK won its fourth IPL title.",
+    "alt": "MS Dhoni standing with actor Vijay, both smiling.",
+    "date": "2021-08-12",
+    "author": "Dhoni pr team sikander",
+    "license": "CC0",
+    "source": "https://commons.wikimedia.org/wiki/File:Thala_dhoni_meets_VJ_Thalapathy_in_2021.png",
+    "era": "beyond",
+    "tags": [
+      "csk",
+      "personal"
+    ]
+  },
+  {
+    "id": "img-41",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/MA_Chidambaram_Stadium_In_the_Night_during_a_CSK_Game.jpg/1280px-MA_Chidambaram_Stadium_In_the_Night_during_a_CSK_Game.jpg",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/a/a2/MA_Chidambaram_Stadium_In_the_Night_during_a_CSK_Game.jpg",
+    "w": 1280,
+    "h": 720,
+    "caption": "The M. A. Chidambaram Stadium, Chennai, at night during a Chennai Super Kings match in IPL 2023, CSK's fifth title-winning season, 12 May 2023.",
+    "alt": "Chepauk stadium under floodlights with a sea of yellow in the stands.",
+    "date": "2023-05-12",
+    "author": "BCCI/Sportzpics",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:MA_Chidambaram_Stadium_In_the_Night_during_a_CSK_Game.jpg",
+    "era": "beyond",
+    "tags": [
+      "csk",
+      "venue"
+    ]
+  },
+  {
+    "id": "img-42",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Mandar_Agashe_felicitating_MS_Dhoni.jpg/1280px-Mandar_Agashe_felicitating_MS_Dhoni.jpg",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/8/85/Mandar_Agashe_felicitating_MS_Dhoni.jpg",
+    "w": 1280,
+    "h": 1756,
+    "caption": "Mandar Agashe presents a memento to MS Dhoni at a corporate event, 10 February 2024.",
+    "alt": "MS Dhoni in a blue polo shirt smiling while receiving a glass trophy from a man in a suit.",
+    "date": "2024-02-10",
+    "author": "Agashe Foundation",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Mandar_Agashe_felicitating_MS_Dhoni.jpg",
+    "era": "beyond",
+    "tags": [
+      "personal"
+    ]
+  },
+  {
+    "id": "img-43",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Wanderers_Stadium_2024.jpg/1280px-Wanderers_Stadium_2024.jpg",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/1/18/Wanderers_Stadium_2024.jpg",
+    "w": 1280,
+    "h": 504,
+    "caption": "The Wanderers Stadium, Johannesburg, during a Joburg Super Kings v MI Cape Town SA20 match, 13 January 2024.",
+    "alt": "Wide panoramic view of the Wanderers Stadium bowl in daylight.",
+    "date": "2024-01-13",
+    "author": "TapticInfo",
+    "license": "CC BY 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Wanderers_Stadium_2024.jpg",
+    "era": "beyond",
+    "tags": [
+      "venue"
+    ]
+  },
+  {
+    "id": "img-44",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Para_contingent_republic_day_2022.jpg/1280px-Para_contingent_republic_day_2022.jpg",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Para_contingent_republic_day_2022.jpg",
+    "w": 1280,
+    "h": 720,
+    "caption": "The Parachute Regiment contingent of the Indian Army, Lt Col (Hon) MS Dhoni's regiment, marches at the Republic Day parade, 26 January 2022.",
+    "alt": "Indian Army paratroopers marching in formation in maroon berets.",
+    "date": "2022-01-26",
+    "author": "Alphaosint",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Para_contingent_republic_day_2022.jpg",
+    "era": "beyond",
+    "tags": [
+      "army"
+    ]
+  },
+  {
+    "id": "img-45",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/JSCAStad.jpg/1280px-JSCAStad.jpg",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/a/a4/JSCAStad.jpg",
+    "w": 1280,
+    "h": 1707,
+    "caption": "JSCA International Stadium Complex, Ranchi, the international ground in MS Dhoni's home city, October 2019.",
+    "alt": "JSCA Stadium stands and floodlight pylon photographed from the ground.",
+    "date": "2019-10-20",
+    "author": "Ayush0412",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:JSCAStad.jpg",
+    "era": "ranchi",
+    "tags": [
+      "venue",
+      "ranchi"
+    ]
+  },
+  {
+    "id": "img-46",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d1/JSCAInternational_Stadium1.jpg",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/d/d1/JSCAInternational_Stadium1.jpg",
+    "w": 960,
+    "h": 720,
+    "caption": "The JSCA International Cricket Stadium in Ranchi, February 2012.",
+    "alt": "Exterior of the JSCA cricket stadium in Ranchi with stands under construction.",
+    "date": "2012-02-28",
+    "author": "Akash Guruji",
+    "license": "CC BY-SA 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:JSCAInternational_Stadium1.jpg",
+    "era": "ranchi",
+    "tags": [
+      "venue",
+      "ranchi"
+    ]
+  },
+  {
+    "id": "img-47",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Ranchi_Cityscape.jpg/1280px-Ranchi_Cityscape.jpg",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Ranchi_Cityscape.jpg",
+    "w": 1280,
+    "h": 722,
+    "caption": "View of Ranchi city and its lake from Pahari Temple, June 2010.",
+    "alt": "Hilltop view over Ranchi rooftops and a lake with green hills beyond.",
+    "date": "2010-06-12",
+    "author": "Sankara Subramanian",
+    "license": "CC BY 2.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Ranchi_Cityscape.jpg",
+    "era": "ranchi",
+    "tags": [
+      "ranchi"
+    ]
+  },
+  {
+    "id": "img-48",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Kharagpur_Railway_Junction_Station_-_Kharagpur_-_West_Midnapore_2013-01-26_3621.JPG/1280px-Kharagpur_Railway_Junction_Station_-_Kharagpur_-_West_Midnapore_2013-01-26_3621.JPG",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Kharagpur_Railway_Junction_Station_-_Kharagpur_-_West_Midnapore_2013-01-26_3621.JPG",
+    "w": 1280,
+    "h": 851,
+    "caption": "Kharagpur Junction, the South Eastern Railway station where MS Dhoni worked as a ticket collector from 2001 to 2003, January 2013.",
+    "alt": "Platform and long station building at Kharagpur Junction.",
+    "date": "2013-01-26",
+    "author": "Biswarup Ganguly",
+    "license": "CC BY 3.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kharagpur_Railway_Junction_Station_-_Kharagpur_-_West_Midnapore_2013-01-26_3621.JPG",
+    "era": "ranchi",
+    "tags": [
+      "ranchi"
+    ]
+  },
+  {
+    "id": "img-49",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Kharagpur_Railway_Station_Entrance.jpg/1280px-Kharagpur_Railway_Station_Entrance.jpg",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/9/94/Kharagpur_Railway_Station_Entrance.jpg",
+    "w": 1280,
+    "h": 853,
+    "caption": "The front entrance of Kharagpur railway station, West Bengal, August 2021.",
+    "alt": "Entrance building of Kharagpur railway station with signage.",
+    "date": "2021-08-07",
+    "author": "Sayan Sen77",
+    "license": "CC BY-SA 4.0",
+    "source": "https://commons.wikimedia.org/wiki/File:Kharagpur_Railway_Station_Entrance.jpg",
+    "era": "ranchi",
+    "tags": [
+      "ranchi"
+    ]
+  },
+  {
+    "id": "img-50",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Cricket_World_Cup_Trophy.jpg",
+    "full": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Cricket_World_Cup_Trophy.jpg",
+    "w": 800,
+    "h": 600,
+    "caption": "The ICC Cricket World Cup trophy on display at Lord's, London, September 2004, months before MS Dhoni's ODI debut.",
+    "alt": "The ICC Cricket World Cup trophy with its golden globe on a stand.",
+    "date": "2004-09-25",
+    "author": "cricketweb",
+    "license": "Public domain",
+    "source": "https://commons.wikimedia.org/wiki/File:Cricket_World_Cup_Trophy.jpg",
+    "era": "breakthrough",
+    "tags": [
+      "trophy"
+    ]
+  }
+]
