@@ -1,0 +1,72 @@
+{
+  "intro": "Every entry says what kind of record it is, where it stands today, and where the number comes from. A world record is something no one else has done; an India record is the best by an Indian; a personal best is his own high-water mark.",
+  "official": {
+    "note": "Headline career figures used across the site. Format-level figures are from ESPNcricinfo's player records; the aggregate line is the ICC Hall of Fame citation.",
+    "formats": [
+      { "format": "Tests", "span": "2005 – 2014", "matches": 90, "innings": 144, "notOuts": 16, "runs": 4876, "highest": "224", "average": 38.09, "strikeRate": 59.11, "hundreds": 6, "fifties": 33, "sixes": 78, "catches": 256, "stumpings": 38, "source": "ESPNcricinfo" },
+      { "format": "ODIs", "span": "2004 – 2019", "matches": 350, "innings": 297, "notOuts": 84, "runs": 10773, "highest": "183*", "average": 50.57, "strikeRate": 87.56, "hundreds": 10, "fifties": 73, "sixes": 229, "catches": 321, "stumpings": 123, "source": "ESPNcricinfo" },
+      { "format": "T20Is", "span": "2006 – 2019", "matches": 98, "innings": 85, "notOuts": 42, "runs": 1617, "highest": "56", "average": 37.60, "strikeRate": 126.13, "hundreds": 0, "fifties": 2, "sixes": 52, "catches": 57, "stumpings": 34, "source": "ESPNcricinfo" },
+      { "format": "IPL", "span": "2008 – 2025", "matches": 278, "innings": 240, "notOuts": 94, "runs": 5439, "highest": "84*", "average": 37.25, "strikeRate": 137.5, "hundreds": 0, "fifties": 24, "sixes": 264, "catches": 155, "stumpings": 48, "source": "IPL / ESPNcricinfo, through IPL 2025" }
+    ],
+    "international": { "matches": 538, "runs": 17266, "hundreds": 16, "fifties": 108, "catches": 634, "stumpings": 195, "dismissals": 829, "asCaptain": 332, "source": "ICC Hall of Fame citation (538 / 17,266); ESPNcricinfo (dismissals, captaincy)" }
+  },
+  "records": [
+    { "title": "Only captain to win all three ICC men's white-ball trophies", "value": "2007 World T20 · 2011 World Cup · 2013 Champions Trophy", "kind": "World record", "context": "Johannesburg 24 Sep 2007; Mumbai 2 Apr 2011; Birmingham 23 Jun 2013.", "stands": "Yes", "source": "ICC", "sourceUrl": "https://www.icc-cricket.com/hall-of-fame" },
+    { "title": "Most international matches as captain", "value": "332", "kind": "World record", "context": "60 Tests, 200 ODIs, 72 T20Is between 2007 and 2017. Ricky Ponting captained Australia 324 times.", "stands": "Yes", "source": "ESPNcricinfo records", "sourceUrl": "https://www.espncricinfo.com/records/most-matches-as-captain-284254" },
+    { "title": "Most stumpings in international cricket", "value": "195", "kind": "World record", "context": "38 in Tests, 123 in ODIs, 34 in T20Is. Kumar Sangakkara is next with 139.", "stands": "Yes", "source": "ESPNcricinfo records" },
+    { "title": "Most stumpings in ODIs", "value": "123", "kind": "World record", "context": "Sangakkara made 99. Recognised by Guinness World Records.", "stands": "Yes", "source": "ESPNcricinfo; Guinness World Records" },
+    { "title": "Most stumpings in T20Is", "value": "34", "kind": "World record at retirement", "context": "He still held the record at his retirement in 2020; the mark has since been approached by keepers with far more T20Is.", "stands": "Check current list", "source": "ESPNcricinfo records" },
+    { "title": "Highest ODI score by a wicketkeeper", "value": "183*", "kind": "World record", "context": "v Sri Lanka, Jaipur, 31 Oct 2005, off 145 balls, chasing 299. Also the highest score in an ODI run-chase at the time.", "stands": "Yes (Quinton de Kock's 178 is next)", "source": "ESPNcricinfo scorecard" },
+    { "title": "Most not-outs in ODIs", "value": "84", "kind": "World record", "context": "From 297 innings. Shaun Pollock (72) and Chaminda Vaas (72) are next. It is why an average of 50.57 sits on a strike rate of 87.", "stands": "Yes", "source": "ESPNcricinfo records" },
+    { "title": "Most ODI wins as captain for India", "value": "110", "kind": "India record", "context": "110 wins, 74 losses, 5 ties, 11 no results from 200 ODIs. Only Ricky Ponting (165) has more wins in all.", "stands": "Yes", "source": "ESPNcricinfo records" },
+    { "title": "Most ODIs as captain", "value": "200", "kind": "India record", "context": "Ponting captained 230 ODIs; Dhoni's 200 is the most for India, ahead of Azharuddin (174).", "stands": "Yes", "source": "ESPNcricinfo records" },
+    { "title": "Most Test wins as India captain", "value": "27", "kind": "India record at retirement", "context": "27 wins, 18 losses, 15 draws in 60 Tests, 2008–2014. Surpassed by Virat Kohli (40) in 2019.", "stands": "No — Kohli", "source": "ESPNcricinfo records" },
+    { "title": "First Indian captain to take India to No.1 in the ICC Test rankings", "value": "December 2009", "kind": "India record", "context": "After beating Sri Lanka 2–0 at home. India held the ranking for 20 months.", "stands": "Yes", "source": "ICC rankings" },
+    { "title": "Highest Test score by an Indian wicketkeeper", "value": "224", "kind": "India record", "context": "v Australia, Chennai, Feb 2013, off 265 balls. Also the highest score by an Indian Test captain at the time (Kohli 235 in 2016 and 254* in 2019 have since passed it); Rishabh Pant has not passed 224 either.", "stands": "Yes, as a keeper", "source": "ESPNcricinfo scorecard" },
+    { "title": "Fastest Indian to the No.1 ODI batting ranking", "value": "April 2006", "kind": "India record", "context": "First Indian to top the ICC ODI batting rankings, 16 months after debut.", "stands": "Yes", "source": "ICC rankings archive" },
+    { "title": "First wicketkeeper to 10,000 ODI runs for India", "value": "10,773", "kind": "India record", "context": "Reached at Lord's, 14 July 2018. Fourth Indian overall to the mark; the only one with an average above 50.", "stands": "Yes", "source": "ESPNcricinfo" },
+    { "title": "Most international dismissals by an Indian wicketkeeper", "value": "829", "kind": "India record", "context": "634 catches and 195 stumpings. Third in the world behind Mark Boucher (998) and Adam Gilchrist (905).", "stands": "Yes", "source": "ESPNcricinfo records" },
+    { "title": "Most IPL titles as captain", "value": "5 (2010, 2011, 2018, 2021, 2023)", "kind": "Tournament record (shared)", "context": "Rohit Sharma also has five with Mumbai Indians. Dhoni's ten finals as a captain (all with Chennai) is the record outright.", "stands": "Shared", "source": "IPL" },
+    { "title": "Most matches as IPL captain", "value": "230+", "kind": "Tournament record", "context": "Across Chennai Super Kings (2008–15, 2018–23, 2025) and Rising Pune Supergiant (2016). Next is Rohit Sharma.", "stands": "Yes", "source": "IPL records (verify current figure)" },
+    { "title": "Fastest stumping recorded in international cricket", "value": "0.08 seconds", "kind": "Broadcast record", "context": "Stumping Keemo Paul off Kuldeep Yadav, India v West Indies, Thiruvananthapuram, 1 November 2018, as timed by the broadcaster.", "stands": "Yes", "source": "BCCI / broadcast measurement" },
+    { "title": "Highest ODI score by an Indian wicketkeeper (at the time)", "value": "148", "kind": "Personal milestone", "context": "v Pakistan, Visakhapatnam, 5 April 2005, in his fifth ODI, batting at No.3.", "stands": "Superseded by his own 183*", "source": "ESPNcricinfo scorecard" },
+    { "title": "Only international wicket", "value": "1 for 14", "kind": "Personal milestone", "context": "Travis Dowlin, caught at the Champions Trophy v West Indies, Johannesburg, 30 September 2009. His only wicket in 538 internationals. In the IPL he has never bowled.", "stands": "—", "source": "ESPNcricinfo scorecard" },
+    { "title": "Most wins in ICC ODI tournaments as captain", "value": "World Cup 2011, Champions Trophy 2013", "kind": "Tournament record", "context": "India went unbeaten through the 2013 Champions Trophy and won seven of seven group matches at the 2015 World Cup.", "stands": "Yes", "source": "ICC" },
+    { "title": "First Indian captain to whitewash Australia in a Test series", "value": "4–0, 2013", "kind": "India record", "context": "Chennai, Hyderabad, Mohali, Delhi, February–March 2013.", "stands": "Yes", "source": "ESPNcricinfo" },
+    { "title": "ODI Player of the Year", "value": "2008 and 2009", "kind": "Award", "context": "First player to win the ICC ODI Player of the Year in consecutive years.", "stands": "—", "source": "ICC Awards" }
+  ],
+  "milestones": [
+    { "date": "2004-12-23", "title": "ODI debut", "detail": "v Bangladesh, Chattogram — run out 0" },
+    { "date": "2005-04-05", "title": "First ODI century", "detail": "148 v Pakistan, Visakhapatnam" },
+    { "date": "2005-12-02", "title": "Test debut", "detail": "v Sri Lanka, Chennai — 30" },
+    { "date": "2006-01-21", "title": "First Test century", "detail": "148 v Pakistan, Faisalabad" },
+    { "date": "2006-12-01", "title": "T20I debut", "detail": "v South Africa, Johannesburg" },
+    { "date": "2007-09-14", "title": "First match as India captain", "detail": "World T20 v Scotland, Durban (abandoned); first completed match v Pakistan, won in a bowl-out" },
+    { "date": "2008-04-11", "title": "First Test as captain", "detail": "v South Africa, Kanpur — won by 8 wickets" },
+    { "date": "2009-09-30", "title": "Only international wicket", "detail": "Travis Dowlin, Champions Trophy, Johannesburg" },
+    { "date": "2011-04-02", "title": "Player of the match in a World Cup final", "detail": "91* off 79, Mumbai" },
+    { "date": "2013-02-24", "title": "First Test double-century", "detail": "224 v Australia, Chennai" },
+    { "date": "2014-12-26", "title": "Last Test", "detail": "v Australia, Melbourne — 90th Test" },
+    { "date": "2016-03-31", "title": "Last T20I as captain", "detail": "World T20 semi-final v West Indies, Mumbai" },
+    { "date": "2016-10-29", "title": "Last ODI as captain", "detail": "v New Zealand, Visakhapatnam — won series 3–2" },
+    { "date": "2018-07-14", "title": "10,000 ODI runs", "detail": "v England, Lord's" },
+    { "date": "2019-02-27", "title": "Last T20I", "detail": "v Australia, Bengaluru — 98th T20I" },
+    { "date": "2019-07-10", "title": "Last ODI and last international", "detail": "World Cup semi-final v New Zealand, Manchester — 50, run out" },
+    { "date": "2020-08-15", "title": "Retirement announced", "detail": "Instagram, 19:29 IST" }
+  ],
+  "verification": [
+    { "fact": "International matches", "value": "538", "sources": "ICC Hall of Fame; sum of 90+350+98", "status": "verified" },
+    { "fact": "International runs", "value": "17,266", "sources": "ICC Hall of Fame; sum of 4,876+10,773+1,617", "status": "verified" },
+    { "fact": "International dismissals", "value": "829", "sources": "ESPNcricinfo (634 ct + 195 st). The research brief quoted 839 from an ICC summary; the format totals reconcile to 829, which the site uses.", "status": "discrepancy noted" },
+    { "fact": "ODI stumpings", "value": "123", "sources": "ESPNcricinfo; Guinness World Records", "status": "verified" },
+    { "fact": "International stumpings", "value": "195", "sources": "ESPNcricinfo (38+123+34)", "status": "verified" },
+    { "fact": "Matches as captain", "value": "332", "sources": "ESPNcricinfo (60+200+72)", "status": "verified" },
+    { "fact": "Captaincy results", "value": "Tests 27-18-15 · ODIs 110-74-5-11 · T20Is 41-28-1-2", "sources": "ESPNcricinfo captaincy records", "status": "verified" },
+    { "fact": "IPL matches and runs", "value": "278 / 5,439", "sources": "IPL / ESPNcricinfo, through IPL 2025", "status": "verified to end of 2025 season" },
+    { "fact": "ODI debut date", "value": "23 Dec 2004", "sources": "ESPNcricinfo scorecard", "status": "verified" },
+    { "fact": "148 v Pakistan", "value": "5 Apr 2005, Visakhapatnam, not unbeaten", "sources": "ESPNcricinfo scorecard. The brief said 148* at Multan; both details were wrong.", "status": "corrected" },
+    { "fact": "224 v Australia", "value": "Chennai, Feb 2013", "sources": "ESPNcricinfo scorecard. The brief variously placed it in Dec 2005, Dec 2012 and Perth.", "status": "corrected" },
+    { "fact": "Arjuna Award year", "value": "2007", "sources": "Ministry of Youth Affairs and Sports. The brief said 2005.", "status": "corrected" },
+    { "fact": "Match archive", "value": "Computed from Cricsheet ball-by-ball data", "sources": "cricsheet.org (ODbL). Coverage per format is printed on the Every match page; small gaps versus official totals are possible.", "status": "see coverage" }
+  ]
+}

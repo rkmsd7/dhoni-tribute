@@ -1,0 +1,34 @@
+{
+  "name": "MS Dhoni",
+  "title": "MS Dhoni · The Journey",
+  "tagline": "The Boy. The Keeper. The Captain. The Finisher. From a railway platform in Kharagpur to the only captain to win all three ICC white-ball trophies — a sourced, data-driven tribute to Mahendra Singh Dhoni.",
+  "subtitle": "From Ranchi to Immortality",
+  "occasion": "Published 17 November 2026. Every figure on this site comes from the data layer; headline totals follow the ICC Hall of Fame citation (June 2025) and ESPNcricinfo records.",
+  "dates": "Born 7 July 1981, Ranchi · India 2004 – 2020 · Chennai Super Kings 2008 –",
+  "nav": [
+    { "href": "/", "label": "Journey" },
+    { "href": "/matches", "label": "Every match" },
+    { "href": "/stats", "label": "Numbers" },
+    { "href": "/records", "label": "Records" },
+    { "href": "/captaincy", "label": "Captain Cool" },
+    { "href": "/keeping", "label": "Behind the stumps" },
+    { "href": "/ipl", "label": "IPL & CSK" },
+    { "href": "/moments", "label": "Moments" },
+    { "href": "/trophies", "label": "Trophy room" },
+    { "href": "/gallery", "label": "Photographs" },
+    { "href": "/videos", "label": "Videos" },
+    { "href": "/man", "label": "The man" }
+  ],
+  "stats": [
+    { "value": "538", "label": "international matches", "source": "ICC Hall of Fame, June 2025" },
+    { "value": "17,266", "label": "international runs", "source": "ICC Hall of Fame, June 2025" },
+    { "value": "829", "label": "international dismissals (634 ct, 195 st)", "source": "ESPNcricinfo records" },
+    { "value": "332", "label": "internationals as captain — most ever", "source": "ESPNcricinfo records" },
+    { "value": "3", "label": "ICC trophies as captain: 2007, 2011, 2013", "source": "ICC" },
+    { "value": "5", "label": "IPL titles as CSK captain", "source": "IPL" },
+    { "value": "195", "label": "international stumpings — world record", "source": "ESPNcricinfo records" },
+    { "value": "2025", "label": "ICC Hall of Fame induction", "source": "ICC" }
+  ],
+  "phrases": ["Captain Cool", "The Finisher", "Helicopter Shot", "Winning Instinct", "Trailblazer from Jharkhand", "19:29"],
+  "dataNote": "Where the research brief and published sources disagree (for example 839 vs 829 international dismissals), the site uses the figure that reconciles with the format-by-format totals (256+38, 321+123, 57+34 = 829) and flags the alternative in the verification table."
+}

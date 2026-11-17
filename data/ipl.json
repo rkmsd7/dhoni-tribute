@@ -1,0 +1,37 @@
+{
+  "intro": "Chennai paid the most money at the first auction for a captain who had just won the World T20, and got eighteen seasons out of him. He has played for one other franchise, for two years, because his own was suspended. The partnership is the longest between a player and a city in the league.",
+  "career": { "matches": 278, "runs": 5439, "highest": "84*", "average": 37.25, "strikeRate": 137.5, "fifties": 24, "sixes": 264, "catches": 155, "stumpings": 48, "titles": 5, "finals": 10, "source": "IPL / ESPNcricinfo, through the 2025 season" },
+  "seasons": [
+    { "year": 2008, "team": "CSK", "matches": 16, "runs": 414, "average": 41.4, "strikeRate": 133.5, "captain": true, "finish": "Runners-up" },
+    { "year": 2009, "team": "CSK", "matches": 14, "runs": 332, "average": 33.2, "strikeRate": 127.2, "captain": true, "finish": "Semi-final" },
+    { "year": 2010, "team": "CSK", "matches": 15, "runs": 287, "average": 31.9, "strikeRate": 136.0, "captain": true, "finish": "Champions" },
+    { "year": 2011, "team": "CSK", "matches": 16, "runs": 392, "average": 43.6, "strikeRate": 158.7, "captain": true, "finish": "Champions" },
+    { "year": 2012, "team": "CSK", "matches": 19, "runs": 357, "average": 29.8, "strikeRate": 128.4, "captain": true, "finish": "Runners-up" },
+    { "year": 2013, "team": "CSK", "matches": 18, "runs": 461, "average": 41.9, "strikeRate": 162.9, "captain": true, "finish": "Runners-up" },
+    { "year": 2014, "team": "CSK", "matches": 16, "runs": 371, "average": 74.2, "strikeRate": 148.4, "captain": true, "finish": "Playoffs (3rd)" },
+    { "year": 2015, "team": "CSK", "matches": 17, "runs": 372, "average": 31.0, "strikeRate": 121.6, "captain": true, "finish": "Runners-up" },
+    { "year": 2016, "team": "RPS", "matches": 14, "runs": 284, "average": 40.6, "strikeRate": 135.2, "captain": true, "finish": "7th" },
+    { "year": 2017, "team": "RPS", "matches": 16, "runs": 290, "average": 26.4, "strikeRate": 116.0, "captain": false, "finish": "Runners-up (Smith captain)" },
+    { "year": 2018, "team": "CSK", "matches": 16, "runs": 455, "average": 75.8, "strikeRate": 150.7, "captain": true, "finish": "Champions" },
+    { "year": 2019, "team": "CSK", "matches": 15, "runs": 416, "average": 83.2, "strikeRate": 134.6, "captain": true, "finish": "Runners-up" },
+    { "year": 2020, "team": "CSK", "matches": 14, "runs": 200, "average": 25.0, "strikeRate": 116.3, "captain": true, "finish": "7th" },
+    { "year": 2021, "team": "CSK", "matches": 16, "runs": 114, "average": 16.3, "strikeRate": 106.5, "captain": true, "finish": "Champions" },
+    { "year": 2022, "team": "CSK", "matches": 14, "runs": 232, "average": 33.1, "strikeRate": 123.4, "captain": true, "finish": "9th (Jadeja captained 8 games)" },
+    { "year": 2023, "team": "CSK", "matches": 16, "runs": 104, "average": 26.0, "strikeRate": 182.5, "captain": true, "finish": "Champions" },
+    { "year": 2024, "team": "CSK", "matches": 14, "runs": 161, "average": 53.7, "strikeRate": 220.5, "captain": false, "finish": "5th (Gaikwad captain)" },
+    { "year": 2025, "team": "CSK", "matches": 14, "runs": 196, "average": 24.5, "strikeRate": 135.2, "captain": true, "finish": "10th (took over mid-season)" }
+  ],
+  "seasonNote": "Season figures are from the IPL's published statistics and ESPNcricinfo season pages; the archive page below recomputes them from ball-by-ball data and may differ by a run or two where scorers disagree.",
+  "csk": [
+    { "title": "Why Chennai", "text": "N. Srinivasan's India Cements franchise bid for him at the first auction in February 2008 and never let him go, not even through the 2016–17 suspension after the spot-fixing inquiry, after which he was retained before the 2018 auction. He speaks a few words of Tamil, is called Thala (leader) by the crowd, and has said he will play his last match at Chepauk." },
+    { "title": "Dad's Army", "text": "The 2018 squad that won the title had an average age above 30 and was mocked for it. Dhoni's view was that T20 rewards experience under pressure more than athleticism, and that a settled core — Raina, Jadeja, Bravo, du Plessis, Rayudu, Watson — would beat a younger one over a 14-game league. CSK have missed the playoffs only four times in the seasons they have played." },
+    { "title": "Retention over auction", "text": "CSK's auction strategy under Dhoni has been to retain the core and buy specific roles cheaply: Bravo and Jadeja for the death, Deepak Chahar for the powerplay, a left-arm spinner for Chepauk. Rarely the biggest buyer, usually the most settled XI." },
+    { "title": "Ten finals", "text": "He has captained in ten IPL finals and won five. The 2019 final was lost by one run; the 2023 final was won off the penultimate ball of the last over. No other captain has reached more than six." },
+    { "title": "The Jadeja partnership", "text": "Ravindra Jadeja has played under Dhoni for Chennai since 2012 and for India since 2009. The two-ball finish in the 2023 final, Jadeja 10 off 2 and Dhoni waiting at the boundary, is the image of the modern CSK." }
+  ],
+  "rivals": [
+    { "team": "Mumbai Indians", "note": "Five finals between the two sides' captains, Dhoni and Rohit; MI won 2013, 2015 and 2019, CSK won 2010. The 2019 final was lost by a single run." },
+    { "team": "Royal Challengers Bangalore", "note": "The 2011 final, won by 58 runs at Chepauk, and the Kohli–Dhoni contrast ever since." },
+    { "team": "Kolkata Knight Riders", "note": "Lost the 2012 final at Chennai, won the 2021 final in Dubai and the 2014 Champions League final in Bengaluru." }
+  ]
+}

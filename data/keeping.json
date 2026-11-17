@@ -1,0 +1,144 @@
+{
+ "intro": "He was never the most orthodox wicketkeeper and never pretended to be. He kept with his hands rather than his feet, stood up to seam more than anyone of his era, and took the bails off faster than the cameras could follow. The numbers put him third in history for dismissals and first for stumpings, by a distance.",
+ "totals": [
+  {
+   "format": "Tests",
+   "matches": 90,
+   "catches": 256,
+   "stumpings": 38,
+   "dismissals": 294,
+   "perMatch": 3.27
+  },
+  {
+   "format": "ODIs",
+   "matches": 350,
+   "catches": 321,
+   "stumpings": 123,
+   "dismissals": 444,
+   "perMatch": 1.27
+  },
+  {
+   "format": "T20Is",
+   "matches": 98,
+   "catches": 57,
+   "stumpings": 34,
+   "dismissals": 91,
+   "perMatch": 0.93
+  },
+  {
+   "format": "International",
+   "matches": 538,
+   "catches": 634,
+   "stumpings": 195,
+   "dismissals": 829,
+   "perMatch": 1.54
+  }
+ ],
+ "comparison": {
+  "note": "Career international dismissals for the leading wicketkeepers. Source: ESPNcricinfo records, combined formats.",
+  "keepers": [
+   {
+    "name": "Mark Boucher",
+    "country": "South Africa",
+    "matches": 467,
+    "catches": 952,
+    "stumpings": 46,
+    "dismissals": 998
+   },
+   {
+    "name": "Adam Gilchrist",
+    "country": "Australia",
+    "matches": 396,
+    "catches": 813,
+    "stumpings": 92,
+    "dismissals": 905
+   },
+   {
+    "name": "MS Dhoni",
+    "country": "India",
+    "matches": 538,
+    "catches": 634,
+    "stumpings": 195,
+    "dismissals": 829
+   },
+   {
+    "name": "Kumar Sangakkara",
+    "country": "Sri Lanka",
+    "matches": 594,
+    "catches": 539,
+    "stumpings": 139,
+    "dismissals": 678
+   }
+  ]
+ },
+ "skills": [
+  {
+   "title": "No step, just hands",
+   "text": "Orthodox keepers move their feet to get behind the ball; Dhoni often reached for it. It made him look ungainly to purists and allowed him to take the ball closer to the stumps, which is why his stumpings were so quick. The gloves went to the ball and the bails in a single motion."
+  },
+  {
+   "title": "Standing up to seam",
+   "text": "He stood up to Bhuvneshwar Kumar and Hardik Pandya in white-ball cricket when nearly every other keeper stood back, taking away the batter's room to step out and turning length balls into stumping chances. The 2016 run-out of Mustafizur happened because he was already walking down the pitch."
+  },
+  {
+   "title": "The spinners' keeper",
+   "text": "Harbhajan Singh, Ashwin, Jadeja, Kuldeep Yadav and Yuzvendra Chahal all bowled wider lines and fuller lengths because a miss meant a stumping. 123 ODI stumpings is 24 more than anyone else has managed."
+  },
+  {
+   "title": "DRS by instinct",
+   "text": "Bowlers and captains after him, Kohli included, used him as the review. His read of edges and lbw height from behind the stumps was good enough that India's review success rate was said to drop when he left."
+  }
+ ],
+ "famous": [
+  {
+   "date": "2007-09-24",
+   "title": "The field for the last ball, Johannesburg",
+   "text": "Not a dismissal of his own, but the 2007 final ended with his placement: Sreesanth at short fine leg for Misbah's scoop. Dhoni had moved him there two balls earlier.",
+   "tags": [
+    "2007",
+    "captaincy"
+   ]
+  },
+  {
+   "date": "2016-03-23",
+   "title": "Run-out of Mustafizur Rahman, Bengaluru",
+   "text": "Glove off, sprinting to the stumps off the last ball of the World T20 group match. India won by one run.",
+   "tags": [
+    "T20I",
+    "run-out"
+   ]
+  },
+  {
+   "date": "2018-11-01",
+   "title": "0.08 seconds: Keemo Paul, Thiruvananthapuram",
+   "text": "Stumped off Kuldeep Yadav, the broadcast clock reading eight hundredths of a second from ball in glove to bails off.",
+   "tags": [
+    "ODI",
+    "stumping"
+   ]
+  },
+  {
+   "date": "2019-06-22",
+   "title": "Rashid Khan, Southampton, 2019 World Cup",
+   "text": "Stumped off Yuzvendra Chahal with his foot in the air for a fraction of a second, in a tournament where his glovework kept drawing replays.",
+   "tags": [
+    "ODI",
+    "stumping"
+   ]
+  },
+  {
+   "date": "2011-07-31",
+   "title": "The Bell recall, Trent Bridge",
+   "text": "After Ian Bell was run out wandering off at tea, Dhoni withdrew the appeal during the interval. England's batter returned; India lost the Test, and Dhoni won the ICC Spirit of Cricket award.",
+   "tags": [
+    "Test",
+    "spirit"
+   ]
+  }
+ ],
+ "sources": [
+  "ESPNcricinfo wicketkeeping records (most dismissals, most stumpings, by format)",
+  "Guinness World Records: most ODI stumpings",
+  "BCCI broadcast measurement of the Keemo Paul stumping, 1 November 2018"
+ ]
+}

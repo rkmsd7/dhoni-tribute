@@ -1,0 +1,33 @@
+{
+  "intro": "Every major trophy he lifted, with the final, the route and his part in it. International trophies first, Chennai Super Kings second.",
+  "international": [
+    { "year": 2007, "title": "ICC World Twenty20", "host": "South Africa", "final": "Beat Pakistan by 5 runs, Johannesburg, 24 September", "route": "Group: tied v Pakistan (won bowl-out), beat Scotland (abandoned). Super 8s: lost to New Zealand, beat England (Yuvraj's six sixes), beat South Africa. Semi-final: beat Australia by 15 runs (Yuvraj 70 off 30).", "dhoni": "Captain. 154 runs in 6 innings; the Joginder Sharma over.", "squad": "Gambhir, Sehwag, Uthappa, Yuvraj, Dhoni, Rohit, Pathan, Harbhajan, Joginder, RP Singh, Sreesanth, Agarkar, Dinesh Karthik, Chawla, Pathan (Y)", "source": "ICC; ESPNcricinfo" },
+    { "year": 2008, "title": "Commonwealth Bank Series", "host": "Australia", "final": "Beat Australia 2–0 in the best-of-three finals: Sydney (by 6 wickets) and Brisbane (by 9 runs), 2 and 4 March", "route": "Tri-series with Australia and Sri Lanka; India qualified second.", "dhoni": "Captain; Tendulkar's 117* at Sydney was the series' defining innings.", "source": "ESPNcricinfo" },
+    { "year": 2010, "title": "Asia Cup", "host": "Sri Lanka", "final": "Beat Sri Lanka by 81 runs, Dambulla, 24 June", "route": "Beat Bangladesh, Pakistan; lost to Sri Lanka in the group; Dinesh Karthik 66 in the final.", "dhoni": "Captain; 38 in the final. India's first Asia Cup since 1995.", "source": "ESPNcricinfo" },
+    { "year": 2011, "title": "ICC Cricket World Cup", "host": "India, Sri Lanka, Bangladesh", "final": "Beat Sri Lanka by 6 wickets, Mumbai, 2 April", "route": "Group: beat Bangladesh, tied v England, beat Ireland, Netherlands, West Indies; lost to South Africa. Quarter-final: beat Australia by 5 wickets, Ahmedabad. Semi-final: beat Pakistan by 29 runs, Mohali.", "dhoni": "Captain. 91* off 79 in the final, player of the match. 241 runs in the tournament.", "squad": "Sehwag, Tendulkar, Gambhir, Kohli, Yuvraj, Dhoni, Raina, Harbhajan, Zaheer, Munaf, Nehra, Ashwin, Yusuf Pathan, Sreesanth, Chawla", "source": "ICC; ESPNcricinfo" },
+    { "year": 2013, "title": "ICC Champions Trophy", "host": "England and Wales", "final": "Beat England by 5 runs (20 overs a side), Edgbaston, 23 June", "route": "Group: beat South Africa, West Indies, Pakistan. Semi-final: beat Sri Lanka by 8 wickets, Cardiff. Unbeaten.", "dhoni": "Captain. The treble: the only captain to win all three ICC white-ball events.", "squad": "Dhawan (player of the tournament), Rohit, Kohli, Karthik, Raina, Dhoni, Jadeja, Ashwin, Bhuvneshwar, Ishant, Umesh, Yadav, Vinay, Murali Vijay, Irfan Pathan", "source": "ICC; ESPNcricinfo" },
+    { "year": 2013, "title": "Celkon Mobile Cup (tri-series)", "host": "West Indies", "final": "Beat Sri Lanka by 1 wicket, Port of Spain, 11 July", "route": "Tri-series with West Indies and Sri Lanka.", "dhoni": "45* off 52; 15 off the last over.", "source": "ESPNcricinfo" },
+    { "year": 2016, "title": "Asia Cup (T20)", "host": "Bangladesh", "final": "Beat Bangladesh by 8 wickets, Mirpur, 6 March", "route": "Beat Bangladesh, Pakistan, Sri Lanka, UAE.", "dhoni": "Captain; 20* off 6 in the final.", "source": "ESPNcricinfo" }
+  ],
+  "franchise": [
+    { "year": 2010, "title": "Indian Premier League", "team": "Chennai Super Kings", "final": "Beat Mumbai Indians by 22 runs, DY Patil Stadium, 25 April", "dhoni": "Captain; CSK qualified on the last league day." },
+    { "year": 2010, "title": "Champions League Twenty20", "team": "Chennai Super Kings", "final": "Beat Warriors (South Africa) by 8 wickets, Johannesburg, 26 September", "dhoni": "Captain; Murali Vijay 58*." },
+    { "year": 2011, "title": "Indian Premier League", "team": "Chennai Super Kings", "final": "Beat Royal Challengers Bangalore by 58 runs, Chennai, 28 May", "dhoni": "Captain; first team to defend the title." },
+    { "year": 2014, "title": "Champions League Twenty20", "team": "Chennai Super Kings", "final": "Beat Kolkata Knight Riders by 8 wickets, Bengaluru, 4 October", "dhoni": "Captain; Raina 109*." },
+    { "year": 2018, "title": "Indian Premier League", "team": "Chennai Super Kings", "final": "Beat Sunrisers Hyderabad by 8 wickets, Wankhede, 27 May", "dhoni": "Captain; 455 runs in the season." },
+    { "year": 2021, "title": "Indian Premier League", "team": "Chennai Super Kings", "final": "Beat Kolkata Knight Riders by 27 runs, Dubai, 15 October", "dhoni": "Captain; 18* off 6 in Qualifier 1." },
+    { "year": 2023, "title": "Indian Premier League", "team": "Chennai Super Kings", "final": "Beat Gujarat Titans by 5 wickets (DLS), Ahmedabad, 29 May", "dhoni": "Captain; fifth title, tenth final." }
+  ],
+  "finalsAsCaptain": [
+    { "year": 2008, "event": "IPL", "result": "Lost to Rajasthan Royals by 3 wickets" },
+    { "year": 2010, "event": "IPL", "result": "Won" },
+    { "year": 2011, "event": "IPL", "result": "Won" },
+    { "year": 2012, "event": "IPL", "result": "Lost to Kolkata Knight Riders by 5 wickets" },
+    { "year": 2013, "event": "IPL", "result": "Lost to Mumbai Indians by 23 runs" },
+    { "year": 2015, "event": "IPL", "result": "Lost to Mumbai Indians by 41 runs" },
+    { "year": 2018, "event": "IPL", "result": "Won" },
+    { "year": 2019, "event": "IPL", "result": "Lost to Mumbai Indians by 1 run" },
+    { "year": 2021, "event": "IPL", "result": "Won" },
+    { "year": 2023, "event": "IPL", "result": "Won" }
+  ]
+}

@@ -1,0 +1,2785 @@
+{
+ "meta": {
+  "source": "Cricsheet (cricsheet.org), ball-by-ball data, ODbL",
+  "generated": "2026-11-17",
+  "coverage": {
+   "Test": {
+    "found": 86,
+    "official": 90
+   },
+   "ODI": {
+    "found": 328,
+    "official": 350
+   },
+   "T20I": {
+    "found": 95,
+    "official": 98
+   },
+   "IPL": {
+    "found": 277,
+    "official": null
+   }
+  },
+  "dateRange": {
+   "Test": {
+    "first": "2005-12-18",
+    "last": "2014-12-26"
+   },
+   "ODI": {
+    "first": "2004-12-23",
+    "last": "2019-07-09"
+   },
+   "T20I": {
+    "first": "2006-12-01",
+    "last": "2019-02-27"
+   },
+   "IPL": {
+    "first": "2008-04-19",
+    "last": "2025-05-25"
+   }
+  },
+  "captainSource": "date-range heuristic",
+  "captaincyRule": {
+   "T20I": "2007-09-13..2016-03-31",
+   "ODI": "2007-09-29..2017-01-15",
+   "Test": "2008-03-01..2014-12-27 except Tests starting 2008-10-09 and 2008-10-29 (Kumble) and 2014-12-09 (Kohli)",
+   "IPL": "all CSK/RPS matches except 2017 (Smith), 2022-03-26..2022-04-30 (Jadeja), 2024 and 2025 before 2025-04-11 (Gaikwad)"
+  },
+  "notes": [
+   "All figures are computed from Cricsheet ball-by-ball files only; Cricsheet does not cover every match of Dhoni's career, so totals are below official career figures.",
+   "Replays: the Jaipur 2005 ODI (Dhoni 183* v Sri Lanka, 2005-10-31) is not in Cricsheet, so no ball-by-ball replay could be built for it; the 2016 World T20 match v Bangladesh in Bengaluru was played on 2016-03-23.",
+   "Super-over innings are excluded from batting/keeping/team-score figures.",
+   "Balls faced exclude wides; fours/sixes count only boundary hits (Cricsheet non_boundary flag respected).",
+   "Keeping: catch = kind 'caught' with Dhoni among fielders; stumping = kind 'stumped'; run-outs counted separately and not included in 'dismissals'.",
+   "Batting average = runs / (innings - not outs); 'retired hurt' is treated as not out.",
+   "'chasing' = Dhoni batting in the 2nd innings of a limited-overs match or the 4th innings of a Test.",
+   "Captaincy is not recorded by Cricsheet; the 'captain' flag is a date-range heuristic (see captaincyRule). Deviation from the brief: the Oct 2011 England-in-India ODIs are treated as Dhoni-captained (Sehwag captained only matches Dhoni missed through suspension, Dec 2011 and Feb 2012, which drop out automatically). IPL 2025: Dhoni treated as captain from 2025-04-11 (first match after Gaikwad's injury).",
+   "Test: found 86/90 matches, 4721/4876 runs, 248/256 catches, 36/38 stumpings (official figures in brackets; shortfalls are matches absent from Cricsheet).",
+   "ODI: found 328/350 matches, 10100/10773 runs, 305/321 catches, 115/123 stumpings (official figures in brackets; shortfalls are matches absent from Cricsheet).",
+   "T20I: found 95/98 matches, 1584/1617 runs, 52/57 catches, 34/34 stumpings (official figures in brackets; shortfalls are matches absent from Cricsheet).",
+   "IPL: found 277/278 matches, 5439/5439 runs (official figures in brackets; shortfalls are matches absent from Cricsheet)."
+  ]
+ },
+ "byFormat": {
+  "Test": {
+   "matches": 86,
+   "innings": 139,
+   "runs": 4721,
+   "balls": 8003,
+   "notOuts": 15,
+   "highest": "224",
+   "average": 38.07,
+   "strikeRate": 58.99,
+   "hundreds": 6,
+   "fifties": 31,
+   "fours": 522,
+   "sixes": 76,
+   "catches": 248,
+   "stumpings": 36,
+   "dismissals": 284,
+   "wins": 35,
+   "losses": 23,
+   "draws": 28,
+   "ties": 0,
+   "noResults": 0,
+   "playerOfMatch": 2
+  },
+  "ODI": {
+   "matches": 328,
+   "innings": 276,
+   "runs": 10100,
+   "balls": 11681,
+   "notOuts": 78,
+   "highest": "148",
+   "average": 51.01,
+   "strikeRate": 86.47,
+   "hundreds": 8,
+   "fifties": 72,
+   "fours": 770,
+   "sixes": 203,
+   "catches": 305,
+   "stumpings": 115,
+   "dismissals": 420,
+   "wins": 192,
+   "losses": 116,
+   "draws": 0,
+   "ties": 5,
+   "noResults": 15,
+   "playerOfMatch": 19
+  },
+  "T20I": {
+   "matches": 95,
+   "innings": 83,
+   "runs": 1584,
+   "balls": 1267,
+   "notOuts": 40,
+   "highest": "56",
+   "average": 36.84,
+   "strikeRate": 125.02,
+   "hundreds": 0,
+   "fifties": 2,
+   "fours": 114,
+   "sixes": 49,
+   "catches": 52,
+   "stumpings": 34,
+   "dismissals": 86,
+   "wins": 56,
+   "losses": 38,
+   "draws": 0,
+   "ties": 0,
+   "noResults": 1,
+   "playerOfMatch": 0
+  },
+  "IPL": {
+   "matches": 277,
+   "innings": 242,
+   "runs": 5439,
+   "balls": 3957,
+   "notOuts": 100,
+   "highest": "84*",
+   "average": 38.3,
+   "strikeRate": 137.45,
+   "hundreds": 0,
+   "fifties": 24,
+   "fours": 375,
+   "sixes": 264,
+   "catches": 158,
+   "stumpings": 47,
+   "dismissals": 205,
+   "wins": 156,
+   "losses": 120,
+   "draws": 0,
+   "ties": 0,
+   "noResults": 1,
+   "playerOfMatch": 18
+  }
+ },
+ "byYear": {
+  "2004": {
+   "ODI": {
+    "matches": 2,
+    "runs": 7,
+    "average": 7.0,
+    "strikeRate": 233.33,
+    "dismissals": 5,
+    "wins": 2
+   },
+   "total": {
+    "matches": 2,
+    "runs": 7,
+    "average": 7.0,
+    "strikeRate": 233.33,
+    "dismissals": 5,
+    "wins": 2
+   }
+  },
+  "2005": {
+   "ODI": {
+    "matches": 16,
+    "runs": 571,
+    "average": 51.91,
+    "strikeRate": 99.13,
+    "dismissals": 16,
+    "wins": 10
+   },
+   "total": {
+    "matches": 17,
+    "runs": 634,
+    "average": 48.77,
+    "strikeRate": 96.35,
+    "dismissals": 19,
+    "wins": 11
+   },
+   "Test": {
+    "matches": 1,
+    "runs": 63,
+    "average": 31.5,
+    "strikeRate": 76.83,
+    "dismissals": 3,
+    "wins": 1
+   }
+  },
+  "2006": {
+   "Test": {
+    "matches": 10,
+    "runs": 488,
+    "average": 28.71,
+    "strikeRate": 75.19,
+    "dismissals": 37,
+    "wins": 3
+   },
+   "total": {
+    "matches": 38,
+    "runs": 1281,
+    "average": 34.62,
+    "strikeRate": 84.83,
+    "dismissals": 72,
+    "wins": 14
+   },
+   "ODI": {
+    "matches": 27,
+    "runs": 793,
+    "average": 41.74,
+    "strikeRate": 92.32,
+    "dismissals": 34,
+    "wins": 10
+   },
+   "T20I": {
+    "matches": 1,
+    "runs": 0,
+    "average": 0.0,
+    "strikeRate": 0.0,
+    "dismissals": 1,
+    "wins": 1
+   }
+  },
+  "2007": {
+   "ODI": {
+    "matches": 32,
+    "runs": 861,
+    "average": 39.14,
+    "strikeRate": 83.51,
+    "dismissals": 41,
+    "wins": 17
+   },
+   "total": {
+    "matches": 47,
+    "runs": 1492,
+    "average": 41.44,
+    "strikeRate": 80.82,
+    "dismissals": 59,
+    "wins": 26
+   },
+   "Test": {
+    "matches": 8,
+    "runs": 468,
+    "average": 52.0,
+    "strikeRate": 67.83,
+    "dismissals": 17,
+    "wins": 3
+   },
+   "T20I": {
+    "matches": 7,
+    "runs": 163,
+    "average": 32.6,
+    "strikeRate": 130.4,
+    "dismissals": 1,
+    "wins": 6
+   }
+  },
+  "2008": {
+   "Test": {
+    "matches": 12,
+    "runs": 633,
+    "average": 35.17,
+    "strikeRate": 52.49,
+    "dismissals": 31,
+    "wins": 5
+   },
+   "total": {
+    "matches": 57,
+    "runs": 2122,
+    "average": 45.15,
+    "strikeRate": 74.46,
+    "dismissals": 85,
+    "wins": 33
+   },
+   "T20I": {
+    "matches": 1,
+    "runs": 9,
+    "average": 9.0,
+    "strikeRate": 33.33,
+    "dismissals": 0,
+    "wins": 0
+   },
+   "ODI": {
+    "matches": 28,
+    "runs": 1066,
+    "average": 59.22,
+    "strikeRate": 81.56,
+    "dismissals": 48,
+    "wins": 19
+   },
+   "IPL": {
+    "matches": 16,
+    "runs": 414,
+    "average": 41.4,
+    "strikeRate": 133.55,
+    "dismissals": 6,
+    "wins": 9
+   }
+  },
+  "2009": {
+   "ODI": {
+    "matches": 29,
+    "runs": 1198,
+    "average": 70.47,
+    "strikeRate": 85.57,
+    "dismissals": 37,
+    "wins": 15
+   },
+   "total": {
+    "matches": 58,
+    "runs": 2083,
+    "average": 56.3,
+    "strikeRate": 84.47,
+    "dismissals": 72,
+    "wins": 30
+   },
+   "T20I": {
+    "matches": 10,
+    "runs": 184,
+    "average": 23.0,
+    "strikeRate": 101.1,
+    "dismissals": 5,
+    "wins": 4
+   },
+   "Test": {
+    "matches": 5,
+    "runs": 369,
+    "average": 92.25,
+    "strikeRate": 59.23,
+    "dismissals": 22,
+    "wins": 3
+   },
+   "IPL": {
+    "matches": 14,
+    "runs": 332,
+    "average": 41.5,
+    "strikeRate": 127.2,
+    "dismissals": 8,
+    "wins": 8
+   }
+  },
+  "2010": {
+   "ODI": {
+    "matches": 18,
+    "runs": 600,
+    "average": 46.15,
+    "strikeRate": 78.95,
+    "dismissals": 23,
+    "wins": 11
+   },
+   "total": {
+    "matches": 48,
+    "runs": 1706,
+    "average": 40.62,
+    "strikeRate": 71.95,
+    "dismissals": 85,
+    "wins": 27
+   },
+   "Test": {
+    "matches": 13,
+    "runs": 749,
+    "average": 41.61,
+    "strikeRate": 55.48,
+    "dismissals": 48,
+    "wins": 7
+   },
+   "IPL": {
+    "matches": 13,
+    "runs": 287,
+    "average": 31.89,
+    "strikeRate": 136.67,
+    "dismissals": 11,
+    "wins": 8
+   },
+   "T20I": {
+    "matches": 4,
+    "runs": 70,
+    "average": 35.0,
+    "strikeRate": 137.25,
+    "dismissals": 3,
+    "wins": 1
+   }
+  },
+  "2011": {
+   "Test": {
+    "matches": 12,
+    "runs": 511,
+    "average": 26.89,
+    "strikeRate": 58.07,
+    "dismissals": 50,
+    "wins": 3
+   },
+   "total": {
+    "matches": 55,
+    "runs": 1706,
+    "average": 39.67,
+    "strikeRate": 84.37,
+    "dismissals": 84,
+    "wins": 29
+   },
+   "T20I": {
+    "matches": 3,
+    "runs": 39,
+    "average": 19.5,
+    "strikeRate": 86.67,
+    "dismissals": 1,
+    "wins": 1
+   },
+   "ODI": {
+    "matches": 24,
+    "runs": 764,
+    "average": 58.77,
+    "strikeRate": 89.88,
+    "dismissals": 23,
+    "wins": 14
+   },
+   "IPL": {
+    "matches": 16,
+    "runs": 392,
+    "average": 43.56,
+    "strikeRate": 158.7,
+    "dismissals": 10,
+    "wins": 11
+   }
+  },
+  "2012": {
+   "Test": {
+    "matches": 8,
+    "runs": 447,
+    "average": 40.64,
+    "strikeRate": 49.23,
+    "dismissals": 16,
+    "wins": 3
+   },
+   "total": {
+    "matches": 55,
+    "runs": 1579,
+    "average": 43.86,
+    "strikeRate": 79.43,
+    "dismissals": 60,
+    "wins": 29
+   },
+   "T20I": {
+    "matches": 13,
+    "runs": 250,
+    "average": 50.0,
+    "strikeRate": 122.55,
+    "dismissals": 13,
+    "wins": 7
+   },
+   "ODI": {
+    "matches": 16,
+    "runs": 524,
+    "average": 65.5,
+    "strikeRate": 87.63,
+    "dismissals": 17,
+    "wins": 9
+   },
+   "IPL": {
+    "matches": 18,
+    "runs": 358,
+    "average": 29.83,
+    "strikeRate": 128.78,
+    "dismissals": 14,
+    "wins": 10
+   }
+  },
+  "2013": {
+   "ODI": {
+    "matches": 26,
+    "runs": 753,
+    "average": 62.75,
+    "strikeRate": 96.05,
+    "dismissals": 34,
+    "wins": 15
+   },
+   "total": {
+    "matches": 53,
+    "runs": 1697,
+    "average": 51.42,
+    "strikeRate": 98.55,
+    "dismissals": 74,
+    "wins": 34
+   },
+   "Test": {
+    "matches": 8,
+    "runs": 459,
+    "average": 45.9,
+    "strikeRate": 72.4,
+    "dismissals": 22,
+    "wins": 6
+   },
+   "IPL": {
+    "matches": 18,
+    "runs": 461,
+    "average": 41.91,
+    "strikeRate": 162.9,
+    "dismissals": 17,
+    "wins": 12
+   },
+   "T20I": {
+    "matches": 1,
+    "runs": 24,
+    "average": null,
+    "strikeRate": 114.29,
+    "dismissals": 1,
+    "wins": 1
+   }
+  },
+  "2014": {
+   "ODI": {
+    "matches": 12,
+    "runs": 418,
+    "average": 52.25,
+    "strikeRate": 92.07,
+    "dismissals": 13,
+    "wins": 5
+   },
+   "total": {
+    "matches": 44,
+    "runs": 1400,
+    "average": 46.67,
+    "strikeRate": 80.32,
+    "dismissals": 61,
+    "wins": 21
+   },
+   "Test": {
+    "matches": 9,
+    "runs": 534,
+    "average": 33.38,
+    "strikeRate": 54.43,
+    "dismissals": 38,
+    "wins": 1
+   },
+   "T20I": {
+    "matches": 7,
+    "runs": 77,
+    "average": 77.0,
+    "strikeRate": 132.76,
+    "dismissals": 6,
+    "wins": 5
+   },
+   "IPL": {
+    "matches": 16,
+    "runs": 371,
+    "average": 74.2,
+    "strikeRate": 148.4,
+    "dismissals": 4,
+    "wins": 10
+   }
+  },
+  "2015": {
+   "ODI": {
+    "matches": 20,
+    "runs": 640,
+    "average": 45.71,
+    "strikeRate": 86.84,
+    "dismissals": 30,
+    "wins": 10
+   },
+   "total": {
+    "matches": 39,
+    "runs": 1037,
+    "average": 38.41,
+    "strikeRate": 97.65,
+    "dismissals": 41,
+    "wins": 20
+   },
+   "IPL": {
+    "matches": 17,
+    "runs": 372,
+    "average": 31.0,
+    "strikeRate": 121.97,
+    "dismissals": 11,
+    "wins": 10
+   },
+   "T20I": {
+    "matches": 2,
+    "runs": 25,
+    "average": 25.0,
+    "strikeRate": 125.0,
+    "dismissals": 0,
+    "wins": 0
+   }
+  },
+  "2016": {
+   "ODI": {
+    "matches": 13,
+    "runs": 278,
+    "average": 27.8,
+    "strikeRate": 80.12,
+    "dismissals": 17,
+    "wins": 7
+   },
+   "total": {
+    "matches": 48,
+    "runs": 800,
+    "average": 36.36,
+    "strikeRate": 111.73,
+    "dismissals": 56,
+    "wins": 27
+   },
+   "T20I": {
+    "matches": 21,
+    "runs": 238,
+    "average": 47.6,
+    "strikeRate": 149.69,
+    "dismissals": 27,
+    "wins": 15
+   },
+   "IPL": {
+    "matches": 14,
+    "runs": 284,
+    "average": 40.57,
+    "strikeRate": 135.24,
+    "dismissals": 12,
+    "wins": 5
+   }
+  },
+  "2017": {
+   "ODI": {
+    "matches": 29,
+    "runs": 788,
+    "average": 60.62,
+    "strikeRate": 84.73,
+    "dismissals": 39,
+    "wins": 21
+   },
+   "total": {
+    "matches": 58,
+    "runs": 1330,
+    "average": 44.33,
+    "strikeRate": 97.65,
+    "dismissals": 65,
+    "wins": 40
+   },
+   "T20I": {
+    "matches": 13,
+    "runs": 252,
+    "average": 42.0,
+    "strikeRate": 138.46,
+    "dismissals": 13,
+    "wins": 9
+   },
+   "IPL": {
+    "matches": 16,
+    "runs": 290,
+    "average": 26.36,
+    "strikeRate": 116.0,
+    "dismissals": 13,
+    "wins": 10
+   }
+  },
+  "2018": {
+   "ODI": {
+    "matches": 19,
+    "runs": 267,
+    "average": 26.7,
+    "strikeRate": 72.55,
+    "dismissals": 25,
+    "wins": 14
+   },
+   "total": {
+    "matches": 42,
+    "runs": 845,
+    "average": 44.47,
+    "strikeRate": 112.82,
+    "dismissals": 50,
+    "wins": 30
+   },
+   "T20I": {
+    "matches": 7,
+    "runs": 123,
+    "average": 41.0,
+    "strikeRate": 155.7,
+    "dismissals": 11,
+    "wins": 5
+   },
+   "IPL": {
+    "matches": 16,
+    "runs": 455,
+    "average": 75.83,
+    "strikeRate": 150.66,
+    "dismissals": 14,
+    "wins": 11
+   }
+  },
+  "2019": {
+   "ODI": {
+    "matches": 17,
+    "runs": 572,
+    "average": 63.56,
+    "strikeRate": 84.49,
+    "dismissals": 18,
+    "wins": 13
+   },
+   "total": {
+    "matches": 37,
+    "runs": 1118,
+    "average": 65.76,
+    "strikeRate": 101.82,
+    "dismissals": 38,
+    "wins": 24
+   },
+   "T20I": {
+    "matches": 5,
+    "runs": 130,
+    "average": 43.33,
+    "strikeRate": 116.07,
+    "dismissals": 4,
+    "wins": 1
+   },
+   "IPL": {
+    "matches": 15,
+    "runs": 416,
+    "average": 83.2,
+    "strikeRate": 134.63,
+    "dismissals": 16,
+    "wins": 10
+   }
+  },
+  "2020": {
+   "IPL": {
+    "matches": 14,
+    "runs": 200,
+    "average": 25.0,
+    "strikeRate": 116.28,
+    "dismissals": 16,
+    "wins": 6
+   },
+   "total": {
+    "matches": 14,
+    "runs": 200,
+    "average": 25.0,
+    "strikeRate": 116.28,
+    "dismissals": 16,
+    "wins": 6
+   }
+  },
+  "2021": {
+   "IPL": {
+    "matches": 16,
+    "runs": 114,
+    "average": 16.29,
+    "strikeRate": 106.54,
+    "dismissals": 13,
+    "wins": 11
+   },
+   "total": {
+    "matches": 16,
+    "runs": 114,
+    "average": 16.29,
+    "strikeRate": 106.54,
+    "dismissals": 13,
+    "wins": 11
+   }
+  },
+  "2022": {
+   "IPL": {
+    "matches": 14,
+    "runs": 232,
+    "average": 33.14,
+    "strikeRate": 123.4,
+    "dismissals": 9,
+    "wins": 4
+   },
+   "total": {
+    "matches": 14,
+    "runs": 232,
+    "average": 33.14,
+    "strikeRate": 123.4,
+    "dismissals": 9,
+    "wins": 4
+   }
+  },
+  "2023": {
+   "IPL": {
+    "matches": 16,
+    "runs": 104,
+    "average": 26.0,
+    "strikeRate": 182.46,
+    "dismissals": 10,
+    "wins": 10
+   },
+   "total": {
+    "matches": 16,
+    "runs": 104,
+    "average": 26.0,
+    "strikeRate": 182.46,
+    "dismissals": 10,
+    "wins": 10
+   }
+  },
+  "2024": {
+   "IPL": {
+    "matches": 14,
+    "runs": 161,
+    "average": 53.67,
+    "strikeRate": 220.55,
+    "dismissals": 10,
+    "wins": 7
+   },
+   "total": {
+    "matches": 14,
+    "runs": 161,
+    "average": 53.67,
+    "strikeRate": 220.55,
+    "dismissals": 10,
+    "wins": 7
+   }
+  },
+  "2025": {
+   "IPL": {
+    "matches": 14,
+    "runs": 196,
+    "average": 24.5,
+    "strikeRate": 135.17,
+    "dismissals": 11,
+    "wins": 4
+   },
+   "total": {
+    "matches": 14,
+    "runs": 196,
+    "average": 24.5,
+    "strikeRate": 135.17,
+    "dismissals": 11,
+    "wins": 4
+   }
+  }
+ },
+ "byOpponent": {
+  "Test": {
+   "Australia": {
+    "matches": 19,
+    "runs": 990,
+    "average": 35.36,
+    "highest": "224",
+    "wins": 9,
+    "losses": 6,
+    "catches": 56,
+    "stumpings": 15
+   },
+   "Bangladesh": {
+    "matches": 3,
+    "runs": 193,
+    "average": 96.5,
+    "highest": "89",
+    "wins": 2,
+    "losses": 0,
+    "catches": 12,
+    "stumpings": 3
+   },
+   "England": {
+    "matches": 20,
+    "runs": 1088,
+    "average": 32.97,
+    "highest": "99",
+    "wins": 5,
+    "losses": 9,
+    "catches": 58,
+    "stumpings": 3
+   },
+   "New Zealand": {
+    "matches": 9,
+    "runs": 599,
+    "average": 54.45,
+    "highest": "98",
+    "wins": 4,
+    "losses": 1,
+    "catches": 28,
+    "stumpings": 5
+   },
+   "Pakistan": {
+    "matches": 4,
+    "runs": 323,
+    "average": 64.6,
+    "highest": "148",
+    "wins": 1,
+    "losses": 1,
+    "catches": 9,
+    "stumpings": 0
+   },
+   "South Africa": {
+    "matches": 12,
+    "runs": 647,
+    "average": 34.05,
+    "highest": "132*",
+    "wins": 4,
+    "losses": 5,
+    "catches": 27,
+    "stumpings": 1
+   },
+   "Sri Lanka": {
+    "matches": 7,
+    "runs": 405,
+    "average": 50.62,
+    "highest": "110",
+    "wins": 4,
+    "losses": 1,
+    "catches": 18,
+    "stumpings": 1
+   },
+   "West Indies": {
+    "matches": 12,
+    "runs": 476,
+    "average": 26.44,
+    "highest": "144",
+    "wins": 6,
+    "losses": 0,
+    "catches": 40,
+    "stumpings": 8
+   }
+  },
+  "ODI": {
+   "Australia": {
+    "matches": 55,
+    "runs": 1660,
+    "average": 44.86,
+    "highest": "139*",
+    "wins": 23,
+    "losses": 26,
+    "catches": 44,
+    "stumpings": 18
+   },
+   "Bangladesh": {
+    "matches": 20,
+    "runs": 557,
+    "average": 50.64,
+    "highest": "101*",
+    "wins": 16,
+    "losses": 4,
+    "catches": 21,
+    "stumpings": 10
+   },
+   "Bermuda": {
+    "matches": 1,
+    "runs": 29,
+    "average": 29.0,
+    "highest": "29",
+    "wins": 1,
+    "losses": 0,
+    "catches": 1,
+    "stumpings": 0
+   },
+   "England": {
+    "matches": 47,
+    "runs": 1536,
+    "average": 46.55,
+    "highest": "134",
+    "wins": 27,
+    "losses": 17,
+    "catches": 38,
+    "stumpings": 16
+   },
+   "Hong Kong": {
+    "matches": 2,
+    "runs": 109,
+    "average": 109.0,
+    "highest": "109*",
+    "wins": 2,
+    "losses": 0,
+    "catches": 3,
+    "stumpings": 4
+   },
+   "Ireland": {
+    "matches": 2,
+    "runs": 34,
+    "average": 34.0,
+    "highest": "34",
+    "wins": 2,
+    "losses": 0,
+    "catches": 5,
+    "stumpings": 0
+   },
+   "Netherlands": {
+    "matches": 1,
+    "runs": 19,
+    "average": null,
+    "highest": "19*",
+    "wins": 1,
+    "losses": 0,
+    "catches": 1,
+    "stumpings": 0
+   },
+   "New Zealand": {
+    "matches": 26,
+    "runs": 901,
+    "average": 50.06,
+    "highest": "84*",
+    "wins": 13,
+    "losses": 11,
+    "catches": 22,
+    "stumpings": 9
+   },
+   "Pakistan": {
+    "matches": 34,
+    "runs": 1200,
+    "average": 57.14,
+    "highest": "148",
+    "wins": 21,
+    "losses": 13,
+    "catches": 35,
+    "stumpings": 8
+   },
+   "Scotland": {
+    "matches": 1,
+    "runs": 0,
+    "average": null,
+    "highest": null,
+    "wins": 1,
+    "losses": 0,
+    "catches": 2,
+    "stumpings": 0
+   },
+   "South Africa": {
+    "matches": 35,
+    "runs": 816,
+    "average": 32.64,
+    "highest": "92*",
+    "wins": 18,
+    "losses": 16,
+    "catches": 29,
+    "stumpings": 11
+   },
+   "Sri Lanka": {
+    "matches": 62,
+    "runs": 2140,
+    "average": 64.85,
+    "highest": "107",
+    "wins": 40,
+    "losses": 17,
+    "catches": 65,
+    "stumpings": 25
+   },
+   "United Arab Emirates": {
+    "matches": 1,
+    "runs": 0,
+    "average": null,
+    "highest": null,
+    "wins": 1,
+    "losses": 0,
+    "catches": 2,
+    "stumpings": 0
+   },
+   "West Indies": {
+    "matches": 35,
+    "runs": 891,
+    "average": 55.69,
+    "highest": "95",
+    "wins": 20,
+    "losses": 12,
+    "catches": 31,
+    "stumpings": 13
+   },
+   "Zimbabwe": {
+    "matches": 6,
+    "runs": 208,
+    "average": 208.0,
+    "highest": "85*",
+    "wins": 6,
+    "losses": 0,
+    "catches": 6,
+    "stumpings": 1
+   }
+  },
+  "T20I": {
+   "Australia": {
+    "matches": 17,
+    "runs": 313,
+    "average": 39.12,
+    "highest": "48*",
+    "wins": 10,
+    "losses": 7,
+    "catches": 10,
+    "stumpings": 5
+   },
+   "Bangladesh": {
+    "matches": 5,
+    "runs": 89,
+    "average": 89.0,
+    "highest": "26",
+    "wins": 5,
+    "losses": 0,
+    "catches": 3,
+    "stumpings": 4
+   },
+   "England": {
+    "matches": 14,
+    "runs": 296,
+    "average": 49.33,
+    "highest": "56",
+    "wins": 7,
+    "losses": 7,
+    "catches": 6,
+    "stumpings": 6
+   },
+   "Ireland": {
+    "matches": 2,
+    "runs": 25,
+    "average": 12.5,
+    "highest": "14",
+    "wins": 2,
+    "losses": 0,
+    "catches": 1,
+    "stumpings": 2
+   },
+   "New Zealand": {
+    "matches": 11,
+    "runs": 223,
+    "average": 37.17,
+    "highest": "49",
+    "wins": 3,
+    "losses": 8,
+    "catches": 6,
+    "stumpings": 3
+   },
+   "Pakistan": {
+    "matches": 8,
+    "runs": 93,
+    "average": 23.25,
+    "highest": "33",
+    "wins": 7,
+    "losses": 1,
+    "catches": 9,
+    "stumpings": 2
+   },
+   "South Africa": {
+    "matches": 13,
+    "runs": 204,
+    "average": 34.0,
+    "highest": "52*",
+    "wins": 8,
+    "losses": 5,
+    "catches": 4,
+    "stumpings": 1
+   },
+   "Sri Lanka": {
+    "matches": 14,
+    "runs": 213,
+    "average": 42.6,
+    "highest": "46",
+    "wins": 10,
+    "losses": 4,
+    "catches": 9,
+    "stumpings": 9
+   },
+   "United Arab Emirates": {
+    "matches": 1,
+    "runs": 0,
+    "average": null,
+    "highest": null,
+    "wins": 1,
+    "losses": 0,
+    "catches": 0,
+    "stumpings": 0
+   },
+   "West Indies": {
+    "matches": 7,
+    "runs": 100,
+    "average": 25.0,
+    "highest": "43",
+    "wins": 1,
+    "losses": 5,
+    "catches": 3,
+    "stumpings": 2
+   },
+   "Zimbabwe": {
+    "matches": 3,
+    "runs": 28,
+    "average": 28.0,
+    "highest": "19*",
+    "wins": 2,
+    "losses": 1,
+    "catches": 1,
+    "stumpings": 0
+   }
+  },
+  "IPL": {
+   "Deccan Chargers": {
+    "matches": 10,
+    "runs": 281,
+    "average": 31.22,
+    "highest": "58*",
+    "wins": 6,
+    "losses": 4,
+    "catches": 3,
+    "stumpings": 3
+   },
+   "Delhi Capitals": {
+    "matches": 13,
+    "runs": 252,
+    "average": 42.0,
+    "highest": "44*",
+    "wins": 7,
+    "losses": 6,
+    "catches": 8,
+    "stumpings": 3
+   },
+   "Delhi Daredevils": {
+    "matches": 21,
+    "runs": 487,
+    "average": 32.47,
+    "highest": "63*",
+    "wins": 13,
+    "losses": 8,
+    "catches": 10,
+    "stumpings": 4
+   },
+   "Gujarat Lions": {
+    "matches": 4,
+    "runs": 83,
+    "average": 41.5,
+    "highest": "30*",
+    "wins": 1,
+    "losses": 3,
+    "catches": 1,
+    "stumpings": 2
+   },
+   "Gujarat Titans": {
+    "matches": 8,
+    "runs": 48,
+    "average": 16.0,
+    "highest": "26*",
+    "wins": 4,
+    "losses": 4,
+    "catches": 5,
+    "stumpings": 1
+   },
+   "Kings XI Punjab": {
+    "matches": 26,
+    "runs": 595,
+    "average": 59.5,
+    "highest": "79*",
+    "wins": 16,
+    "losses": 10,
+    "catches": 22,
+    "stumpings": 2
+   },
+   "Kochi Tuskers Kerala": {
+    "matches": 2,
+    "runs": 23,
+    "average": 23.0,
+    "highest": "14*",
+    "wins": 1,
+    "losses": 1,
+    "catches": 0,
+    "stumpings": 0
+   },
+   "Kolkata Knight Riders": {
+    "matches": 35,
+    "runs": 574,
+    "average": 41.0,
+    "highest": "66*",
+    "wins": 21,
+    "losses": 14,
+    "catches": 17,
+    "stumpings": 10
+   },
+   "Lucknow Super Giants": {
+    "matches": 6,
+    "runs": 86,
+    "average": 86.0,
+    "highest": "28*",
+    "wins": 2,
+    "losses": 3,
+    "catches": 4,
+    "stumpings": 1
+   },
+   "Mumbai Indians": {
+    "matches": 44,
+    "runs": 772,
+    "average": 35.09,
+    "highest": "63*",
+    "wins": 22,
+    "losses": 22,
+    "catches": 24,
+    "stumpings": 3
+   },
+   "Pune Warriors": {
+    "matches": 6,
+    "runs": 135,
+    "average": 45.0,
+    "highest": "45*",
+    "wins": 4,
+    "losses": 2,
+    "catches": 3,
+    "stumpings": 1
+   },
+   "Punjab Kings": {
+    "matches": 9,
+    "runs": 112,
+    "average": 16.0,
+    "highest": "27",
+    "wins": 2,
+    "losses": 7,
+    "catches": 5,
+    "stumpings": 1
+   },
+   "Rajasthan Royals": {
+    "matches": 31,
+    "runs": 585,
+    "average": 39.0,
+    "highest": "75*",
+    "wins": 16,
+    "losses": 15,
+    "catches": 17,
+    "stumpings": 3
+   },
+   "Royal Challengers Bangalore": {
+    "matches": 33,
+    "runs": 839,
+    "average": 39.95,
+    "highest": "84*",
+    "wins": 22,
+    "losses": 11,
+    "catches": 18,
+    "stumpings": 7
+   },
+   "Royal Challengers Bengaluru": {
+    "matches": 4,
+    "runs": 67,
+    "average": 33.5,
+    "highest": "30*",
+    "wins": 1,
+    "losses": 3,
+    "catches": 4,
+    "stumpings": 1
+   },
+   "Sunrisers Hyderabad": {
+    "matches": 25,
+    "runs": 500,
+    "average": 45.45,
+    "highest": "67*",
+    "wins": 18,
+    "losses": 7,
+    "catches": 17,
+    "stumpings": 5
+   }
+  }
+ },
+ "byCountry": {
+  "Australia": {
+   "Test": {
+    "matches": 9,
+    "runs": 311,
+    "average": 19.44,
+    "highest": "57*",
+    "wins": 1,
+    "losses": 6
+   },
+   "T20I": {
+    "matches": 6,
+    "runs": 103,
+    "average": 51.5,
+    "highest": "48*",
+    "wins": 4,
+    "losses": 2
+   },
+   "ODI": {
+    "matches": 34,
+    "runs": 1022,
+    "average": 48.67,
+    "highest": "88*",
+    "wins": 16,
+    "losses": 14
+   }
+  },
+  "Bangladesh": {
+   "ODI": {
+    "matches": 19,
+    "runs": 598,
+    "average": 59.8,
+    "highest": "101*",
+    "wins": 13,
+    "losses": 6
+   },
+   "Test": {
+    "matches": 3,
+    "runs": 193,
+    "average": 96.5,
+    "highest": "89",
+    "wins": 2,
+    "losses": 0
+   },
+   "T20I": {
+    "matches": 11,
+    "runs": 92,
+    "average": 92.0,
+    "highest": "24",
+    "wins": 10,
+    "losses": 1
+   }
+  },
+  "England": {
+   "Test": {
+    "matches": 12,
+    "runs": 778,
+    "average": 37.05,
+    "highest": "92",
+    "wins": 2,
+    "losses": 7
+   },
+   "ODI": {
+    "matches": 33,
+    "runs": 781,
+    "average": 37.19,
+    "highest": "78*",
+    "wins": 18,
+    "losses": 13
+   },
+   "T20I": {
+    "matches": 9,
+    "runs": 121,
+    "average": 24.2,
+    "highest": "30*",
+    "wins": 4,
+    "losses": 5
+   }
+  },
+  "India": {
+   "ODI": {
+    "matches": 119,
+    "runs": 4045,
+    "average": 52.53,
+    "highest": "148",
+    "wins": 72,
+    "losses": 41
+   },
+   "Test": {
+    "matches": 39,
+    "runs": 2225,
+    "average": 46.35,
+    "highest": "224",
+    "wins": 24,
+    "losses": 4
+   },
+   "T20I": {
+    "matches": 33,
+    "runs": 670,
+    "average": 44.67,
+    "highest": "56",
+    "wins": 18,
+    "losses": 15
+   },
+   "IPL": {
+    "matches": 235,
+    "runs": 4740,
+    "average": 39.83,
+    "highest": "84*",
+    "wins": 132,
+    "losses": 102
+   }
+  },
+  "Ireland": {
+   "ODI": {
+    "matches": 2,
+    "runs": 14,
+    "average": 14.0,
+    "highest": "14*",
+    "wins": 2,
+    "losses": 0
+   },
+   "T20I": {
+    "matches": 1,
+    "runs": 11,
+    "average": 11.0,
+    "highest": "11",
+    "wins": 1,
+    "losses": 0
+   }
+  },
+  "Malaysia": {
+   "ODI": {
+    "matches": 4,
+    "runs": 43,
+    "average": 14.33,
+    "highest": "23",
+    "wins": 1,
+    "losses": 2
+   }
+  },
+  "New Zealand": {
+   "T20I": {
+    "matches": 5,
+    "runs": 91,
+    "average": 30.33,
+    "highest": "39",
+    "wins": 1,
+    "losses": 4
+   },
+   "ODI": {
+    "matches": 15,
+    "runs": 590,
+    "average": 84.29,
+    "highest": "85*",
+    "wins": 8,
+    "losses": 5
+   },
+   "Test": {
+    "matches": 4,
+    "runs": 272,
+    "average": 54.4,
+    "highest": "68",
+    "wins": 1,
+    "losses": 1
+   }
+  },
+  "Pakistan": {
+   "Test": {
+    "matches": 2,
+    "runs": 179,
+    "average": 59.67,
+    "highest": "148",
+    "wins": 0,
+    "losses": 1
+   },
+   "ODI": {
+    "matches": 11,
+    "runs": 546,
+    "average": 136.5,
+    "highest": "109*",
+    "wins": 8,
+    "losses": 3
+   }
+  },
+  "Scotland": {
+   "ODI": {
+    "matches": 1,
+    "runs": 0,
+    "average": null,
+    "highest": null,
+    "wins": 1,
+    "losses": 0
+   }
+  },
+  "South Africa": {
+   "ODI": {
+    "matches": 21,
+    "runs": 370,
+    "average": 26.43,
+    "highest": "65",
+    "wins": 8,
+    "losses": 11
+   },
+   "T20I": {
+    "matches": 12,
+    "runs": 244,
+    "average": 30.5,
+    "highest": "52*",
+    "wins": 9,
+    "losses": 3
+   },
+   "Test": {
+    "matches": 7,
+    "runs": 370,
+    "average": 28.46,
+    "highest": "90",
+    "wins": 2,
+    "losses": 3
+   },
+   "IPL": {
+    "matches": 14,
+    "runs": 332,
+    "average": 41.5,
+    "highest": "58*",
+    "wins": 8,
+    "losses": 6
+   }
+  },
+  "Sri Lanka": {
+   "ODI": {
+    "matches": 34,
+    "runs": 1183,
+    "average": 56.33,
+    "highest": "94",
+    "wins": 24,
+    "losses": 9
+   },
+   "T20I": {
+    "matches": 7,
+    "runs": 77,
+    "average": 25.67,
+    "highest": "23*",
+    "wins": 6,
+    "losses": 1
+   },
+   "Test": {
+    "matches": 3,
+    "runs": 128,
+    "average": 32.0,
+    "highest": "76",
+    "wins": 1,
+    "losses": 1
+   }
+  },
+  "United Arab Emirates": {
+   "ODI": {
+    "matches": 7,
+    "runs": 131,
+    "average": 26.2,
+    "highest": "59",
+    "wins": 6,
+    "losses": 1
+   },
+   "IPL": {
+    "matches": 28,
+    "runs": 367,
+    "average": 24.47,
+    "highest": "47*",
+    "wins": 16,
+    "losses": 12
+   }
+  },
+  "United States of America": {
+   "T20I": {
+    "matches": 2,
+    "runs": 43,
+    "average": 43.0,
+    "highest": "43",
+    "wins": 0,
+    "losses": 1
+   }
+  },
+  "Wales": {
+   "ODI": {
+    "matches": 4,
+    "runs": 129,
+    "average": 64.5,
+    "highest": "52",
+    "wins": 3,
+    "losses": 1
+   },
+   "T20I": {
+    "matches": 1,
+    "runs": 32,
+    "average": null,
+    "highest": "32*",
+    "wins": 0,
+    "losses": 1
+   }
+  },
+  "West Indies": {
+   "ODI": {
+    "matches": 18,
+    "runs": 514,
+    "average": 51.4,
+    "highest": "95",
+    "wins": 7,
+    "losses": 9
+   },
+   "Test": {
+    "matches": 7,
+    "runs": 265,
+    "average": 22.08,
+    "highest": "74",
+    "wins": 2,
+    "losses": 0
+   },
+   "T20I": {
+    "matches": 5,
+    "runs": 72,
+    "average": 24.0,
+    "highest": "29",
+    "wins": 1,
+    "losses": 4
+   }
+  },
+  "Zimbabwe": {
+   "ODI": {
+    "matches": 6,
+    "runs": 134,
+    "average": 67.0,
+    "highest": "67*",
+    "wins": 5,
+    "losses": 1
+   },
+   "T20I": {
+    "matches": 3,
+    "runs": 28,
+    "average": 28.0,
+    "highest": "19*",
+    "wins": 2,
+    "losses": 1
+   }
+  }
+ },
+ "captaincy": {
+  "Test": {
+   "matches": 62,
+   "wins": 27,
+   "losses": 19,
+   "ties": 0,
+   "draws": 16,
+   "noResults": 0,
+   "winPct": 43.55,
+   "runsAsCaptain": 3536,
+   "averageAsCaptain": 40.18
+  },
+  "ODI": {
+   "matches": 199,
+   "wins": 111,
+   "losses": 73,
+   "ties": 4,
+   "draws": 0,
+   "noResults": 11,
+   "winPct": 55.78,
+   "runsAsCaptain": 6608,
+   "averageAsCaptain": 53.72
+  },
+  "T20I": {
+   "matches": 64,
+   "wins": 38,
+   "losses": 26,
+   "ties": 0,
+   "draws": 0,
+   "noResults": 0,
+   "winPct": 59.38,
+   "runsAsCaptain": 1008,
+   "averageAsCaptain": 36.0
+  },
+  "IPL": {
+   "matches": 234,
+   "wins": 136,
+   "losses": 97,
+   "ties": 0,
+   "draws": 0,
+   "noResults": 1,
+   "winPct": 58.12,
+   "runsAsCaptain": 4753,
+   "averageAsCaptain": 38.64
+  }
+ },
+ "chasing": {
+  "Test": {
+   "inningsBattingSecond": 19,
+   "runs": 424,
+   "average": 32.62,
+   "strikeRate": 55.06,
+   "notOuts": 6,
+   "successfulChasesWhereDhoniBatted": 5,
+   "notOutInSuccessfulChase": 4,
+   "averageInSuccessfulChases": 80.0
+  },
+  "ODI": {
+   "inningsBattingSecond": 136,
+   "runs": 4544,
+   "average": 51.06,
+   "strikeRate": 78.9,
+   "notOuts": 47,
+   "successfulChasesWhereDhoniBatted": 71,
+   "notOutInSuccessfulChase": 44,
+   "averageInSuccessfulChases": 97.33
+  },
+  "T20I": {
+   "inningsBattingSecond": 33,
+   "runs": 653,
+   "average": 46.64,
+   "strikeRate": 126.55,
+   "notOuts": 19,
+   "successfulChasesWhereDhoniBatted": 18,
+   "notOutInSuccessfulChase": 14,
+   "averageInSuccessfulChases": 68.75
+  },
+  "IPL": {
+   "inningsBattingSecond": 101,
+   "runs": 2336,
+   "average": 39.59,
+   "strikeRate": 135.19,
+   "notOuts": 42,
+   "successfulChasesWhereDhoniBatted": 56,
+   "notOutInSuccessfulChase": 31,
+   "averageInSuccessfulChases": 51.04
+  }
+ },
+ "battingPosition": {
+  "Test": {
+   "3": {
+    "innings": 2,
+    "runs": 105,
+    "average": 105.0
+   },
+   "5": {
+    "innings": 3,
+    "runs": 54,
+    "average": 27.0
+   },
+   "6": {
+    "innings": 24,
+    "runs": 1154,
+    "average": 54.95
+   },
+   "7": {
+    "innings": 101,
+    "runs": 2836,
+    "average": 30.83
+   },
+   "8": {
+    "innings": 9,
+    "runs": 572,
+    "average": 71.5
+   }
+  },
+  "ODI": {
+   "2": {
+    "innings": 1,
+    "runs": 96,
+    "average": 96.0
+   },
+   "3": {
+    "innings": 14,
+    "runs": 782,
+    "average": 71.09
+   },
+   "4": {
+    "innings": 26,
+    "runs": 1235,
+    "average": 58.81
+   },
+   "5": {
+    "innings": 81,
+    "runs": 3110,
+    "average": 50.98
+   },
+   "6": {
+    "innings": 125,
+    "runs": 4096,
+    "average": 48.19
+   },
+   "7": {
+    "innings": 27,
+    "runs": 744,
+    "average": 43.76
+   },
+   "8": {
+    "innings": 2,
+    "runs": 37,
+    "average": 18.5
+   }
+  },
+  "T20I": {
+   "3": {
+    "innings": 5,
+    "runs": 123,
+    "average": 24.6
+   },
+   "4": {
+    "innings": 12,
+    "runs": 255,
+    "average": 51.0
+   },
+   "5": {
+    "innings": 25,
+    "runs": 468,
+    "average": 39.0
+   },
+   "6": {
+    "innings": 31,
+    "runs": 606,
+    "average": 33.67
+   },
+   "7": {
+    "innings": 10,
+    "runs": 132,
+    "average": 44.0
+   }
+  },
+  "IPL": {
+   "3": {
+    "innings": 8,
+    "runs": 196,
+    "average": 32.67
+   },
+   "4": {
+    "innings": 66,
+    "runs": 1560,
+    "average": 36.28
+   },
+   "5": {
+    "innings": 74,
+    "runs": 1982,
+    "average": 47.19
+   },
+   "6": {
+    "innings": 52,
+    "runs": 990,
+    "average": 31.94
+   },
+   "7": {
+    "innings": 25,
+    "runs": 444,
+    "average": 34.15
+   },
+   "8": {
+    "innings": 14,
+    "runs": 236,
+    "average": 47.2
+   },
+   "9": {
+    "innings": 3,
+    "runs": 31,
+    "average": 15.5
+   }
+  }
+ },
+ "topInnings": {
+  "Test": [
+   {
+    "id": "598812",
+    "date": "2013-02-22",
+    "opponent": "Australia",
+    "venue": "MA Chidambaram Stadium",
+    "runs": 224,
+    "balls": 265,
+    "notOut": false,
+    "result": "won",
+    "fours": 24,
+    "sixes": 6
+   },
+   {
+    "id": "233797",
+    "date": "2006-01-21",
+    "opponent": "Pakistan",
+    "venue": "Iqbal Stadium, Faisalabad",
+    "runs": 148,
+    "balls": 153,
+    "notOut": false,
+    "result": "drawn",
+    "fours": 19,
+    "sixes": 4
+   },
+   {
+    "id": "535998",
+    "date": "2011-11-14",
+    "opponent": "West Indies",
+    "venue": "Eden Gardens, Kolkata",
+    "runs": 144,
+    "balls": 175,
+    "notOut": false,
+    "result": "won",
+    "fours": 10,
+    "sixes": 5
+   },
+   {
+    "id": "441826",
+    "date": "2010-02-14",
+    "opponent": "South Africa",
+    "venue": "Eden Gardens, Kolkata",
+    "runs": 132,
+    "balls": 187,
+    "notOut": true,
+    "result": "won",
+    "fours": 12,
+    "sixes": 3
+   },
+   {
+    "id": "430881",
+    "date": "2009-11-16",
+    "opponent": "Sri Lanka",
+    "venue": "Sardar Patel Stadium, Motera, Ahmedabad",
+    "runs": 110,
+    "balls": 159,
+    "notOut": false,
+    "result": "drawn",
+    "fours": 10,
+    "sixes": 1
+   },
+   {
+    "id": "430883",
+    "date": "2009-12-02",
+    "opponent": "Sri Lanka",
+    "venue": "Brabourne Stadium, Mumbai",
+    "runs": 100,
+    "balls": 154,
+    "notOut": true,
+    "result": "won",
+    "fours": 3,
+    "sixes": 6
+   },
+   {
+    "id": "565809",
+    "date": "2012-12-13",
+    "opponent": "England",
+    "venue": "Vidarbha Cricket Association Stadium, Jamtha, Nagpur",
+    "runs": 99,
+    "balls": 246,
+    "notOut": false,
+    "result": "drawn",
+    "fours": 8,
+    "sixes": 1
+   },
+   {
+    "id": "464533",
+    "date": "2010-11-20",
+    "opponent": "New Zealand",
+    "venue": "Vidarbha Cricket Association Stadium, Jamtha, Nagpur",
+    "runs": 98,
+    "balls": 156,
+    "notOut": false,
+    "result": "won",
+    "fours": 12,
+    "sixes": 1
+   },
+   {
+    "id": "258470",
+    "date": "2007-08-09",
+    "opponent": "England",
+    "venue": "The Oval",
+    "runs": 92,
+    "balls": 81,
+    "notOut": false,
+    "result": "drawn",
+    "fours": 9,
+    "sixes": 4
+   },
+   {
+    "id": "345670",
+    "date": "2008-10-17",
+    "opponent": "Australia",
+    "venue": "Punjab Cricket Association Stadium, Mohali, Chandigarh",
+    "runs": 92,
+    "balls": 124,
+    "notOut": false,
+    "result": "won",
+    "fours": 8,
+    "sixes": 4
+   },
+   {
+    "id": "463146",
+    "date": "2010-12-16",
+    "opponent": "South Africa",
+    "venue": "SuperSport Park, Centurion",
+    "runs": 90,
+    "balls": 106,
+    "notOut": false,
+    "result": "lost",
+    "fours": 14,
+    "sixes": 0
+   },
+   {
+    "id": "434257",
+    "date": "2010-01-24",
+    "opponent": "Bangladesh",
+    "venue": "Shere Bangla National Stadium, Mirpur",
+    "runs": 89,
+    "balls": 167,
+    "notOut": false,
+    "result": "won",
+    "fours": 9,
+    "sixes": 2
+   },
+   {
+    "id": "667719",
+    "date": "2014-08-15",
+    "opponent": "England",
+    "venue": "The Oval",
+    "runs": 82,
+    "balls": 140,
+    "notOut": false,
+    "result": "lost",
+    "fours": 15,
+    "sixes": 1
+   },
+   {
+    "id": "667711",
+    "date": "2014-07-09",
+    "opponent": "England",
+    "venue": "Trent Bridge",
+    "runs": 82,
+    "balls": 152,
+    "notOut": false,
+    "result": "drawn",
+    "fours": 7,
+    "sixes": 0
+   },
+   {
+    "id": "474474",
+    "date": "2011-08-10",
+    "opponent": "England",
+    "venue": "Edgbaston",
+    "runs": 77,
+    "balls": 96,
+    "notOut": false,
+    "result": "lost",
+    "fours": 10,
+    "sixes": 3
+   }
+  ],
+  "ODI": [
+   {
+    "id": "64939",
+    "date": "2005-04-05",
+    "opponent": "Pakistan",
+    "venue": "Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium, Visakhapatnam",
+    "runs": 148,
+    "balls": 123,
+    "notOut": false,
+    "result": "won",
+    "fours": 15,
+    "sixes": 4
+   },
+   {
+    "id": "647253",
+    "date": "2013-10-19",
+    "opponent": "Australia",
+    "venue": "Punjab Cricket Association Stadium, Mohali, Chandigarh",
+    "runs": 139,
+    "balls": 121,
+    "notOut": true,
+    "result": "lost",
+    "fours": 12,
+    "sixes": 5
+   },
+   {
+    "id": "1034821",
+    "date": "2017-01-19",
+    "opponent": "England",
+    "venue": "Barabati Stadium, Cuttack",
+    "runs": 134,
+    "balls": 122,
+    "notOut": false,
+    "result": "won",
+    "fours": 10,
+    "sixes": 6
+   },
+   {
+    "id": "416237",
+    "date": "2009-10-28",
+    "opponent": "Australia",
+    "venue": "Vidarbha Cricket Association Stadium, Jamtha, Nagpur",
+    "runs": 124,
+    "balls": 107,
+    "notOut": false,
+    "result": "won",
+    "fours": 9,
+    "sixes": 3
+   },
+   {
+    "id": "589308",
+    "date": "2012-12-30",
+    "opponent": "Pakistan",
+    "venue": "MA Chidambaram Stadium",
+    "runs": 113,
+    "balls": 125,
+    "notOut": true,
+    "result": "lost",
+    "fours": 7,
+    "sixes": 3
+   },
+   {
+    "id": "335349",
+    "date": "2008-06-25",
+    "opponent": "Hong Kong",
+    "venue": "National Stadium, Karachi",
+    "runs": 109,
+    "balls": 96,
+    "notOut": true,
+    "result": "won",
+    "fours": 6,
+    "sixes": 6
+   },
+   {
+    "id": "430887",
+    "date": "2009-12-18",
+    "opponent": "Sri Lanka",
+    "venue": "Vidarbha Cricket Association Stadium, Jamtha, Nagpur",
+    "runs": 107,
+    "balls": 111,
+    "notOut": false,
+    "result": "lost",
+    "fours": 8,
+    "sixes": 2
+   },
+   {
+    "id": "434260",
+    "date": "2010-01-07",
+    "opponent": "Bangladesh",
+    "venue": "Shere Bangla National Stadium, Mirpur",
+    "runs": 101,
+    "balls": 107,
+    "notOut": true,
+    "result": "won",
+    "fours": 9,
+    "sixes": 0
+   },
+   {
+    "id": "238193",
+    "date": "2006-04-12",
+    "opponent": "England",
+    "venue": "Keenan Stadium, Jamshedpur",
+    "runs": 96,
+    "balls": 106,
+    "notOut": false,
+    "result": "lost",
+    "fours": 10,
+    "sixes": 3
+   },
+   {
+    "id": "377314",
+    "date": "2009-06-28",
+    "opponent": "West Indies",
+    "venue": "Sabina Park",
+    "runs": 95,
+    "balls": 130,
+    "notOut": false,
+    "result": "lost",
+    "fours": 6,
+    "sixes": 2
+   },
+   {
+    "id": "386533",
+    "date": "2009-02-05",
+    "opponent": "Sri Lanka",
+    "venue": "R Premadasa Stadium, Colombo",
+    "runs": 94,
+    "balls": 96,
+    "notOut": false,
+    "result": "won",
+    "fours": 4,
+    "sixes": 2
+   },
+   {
+    "id": "903595",
+    "date": "2015-10-14",
+    "opponent": "South Africa",
+    "venue": "Holkar Cricket Stadium, Indore",
+    "runs": 92,
+    "balls": 86,
+    "notOut": true,
+    "result": "won",
+    "fours": 7,
+    "sixes": 4
+   },
+   {
+    "id": "433606",
+    "date": "2011-04-02",
+    "opponent": "Sri Lanka",
+    "venue": "Wankhede Stadium, Mumbai",
+    "runs": 91,
+    "balls": 79,
+    "notOut": true,
+    "result": "won",
+    "fours": 8,
+    "sixes": 2
+   },
+   {
+    "id": "282688",
+    "date": "2007-05-10",
+    "opponent": "Bangladesh",
+    "venue": "Shere Bangla National Stadium, Mirpur",
+    "runs": 91,
+    "balls": 106,
+    "notOut": true,
+    "result": "won",
+    "fours": 7,
+    "sixes": 0
+   },
+   {
+    "id": "291360",
+    "date": "2008-02-05",
+    "opponent": "Sri Lanka",
+    "venue": "Brisbane Cricket Ground",
+    "runs": 88,
+    "balls": 95,
+    "notOut": true,
+    "result": "no result",
+    "fours": 5,
+    "sixes": 1
+   }
+  ],
+  "T20I": [
+   {
+    "id": "1034829",
+    "date": "2017-02-01",
+    "opponent": "England",
+    "venue": "M Chinnaswamy Stadium, Bengaluru",
+    "runs": 56,
+    "balls": 36,
+    "notOut": false,
+    "result": "won",
+    "fours": 5,
+    "sixes": 2
+   },
+   {
+    "id": "1122286",
+    "date": "2018-02-21",
+    "opponent": "South Africa",
+    "venue": "SuperSport Park, Centurion",
+    "runs": 52,
+    "balls": 28,
+    "notOut": true,
+    "result": "lost",
+    "fours": 4,
+    "sixes": 3
+   },
+   {
+    "id": "1120094",
+    "date": "2017-11-04",
+    "opponent": "New Zealand",
+    "venue": "Saurashtra Cricket Association Stadium, Rajkot",
+    "runs": 49,
+    "balls": 37,
+    "notOut": false,
+    "result": "lost",
+    "fours": 2,
+    "sixes": 3
+   },
+   {
+    "id": "518954",
+    "date": "2012-02-01",
+    "opponent": "Australia",
+    "venue": "ANZ Stadium, Sydney",
+    "runs": 48,
+    "balls": 43,
+    "notOut": true,
+    "result": "lost",
+    "fours": 1,
+    "sixes": 3
+   },
+   {
+    "id": "430885",
+    "date": "2009-12-12",
+    "opponent": "Sri Lanka",
+    "venue": "Punjab Cricket Association Stadium, Mohali, Chandigarh",
+    "runs": 46,
+    "balls": 28,
+    "notOut": false,
+    "result": "won",
+    "fours": 3,
+    "sixes": 2
+   },
+   {
+    "id": "287876",
+    "date": "2007-09-20",
+    "opponent": "South Africa",
+    "venue": "Kingsmead, Durban",
+    "runs": 45,
+    "balls": 33,
+    "notOut": false,
+    "result": "won",
+    "fours": 4,
+    "sixes": 1
+   },
+   {
+    "id": "1041615",
+    "date": "2016-08-27",
+    "opponent": "West Indies",
+    "venue": "Central Broward Regional Park Stadium Turf Ground, Lauderhill",
+    "runs": 43,
+    "balls": 25,
+    "notOut": false,
+    "result": "lost",
+    "fours": 2,
+    "sixes": 2
+   },
+   {
+    "id": "1168248",
+    "date": "2019-02-27",
+    "opponent": "Australia",
+    "venue": "M Chinnaswamy Stadium, Bengaluru",
+    "runs": 40,
+    "balls": 23,
+    "notOut": false,
+    "result": "lost",
+    "fours": 3,
+    "sixes": 3
+   },
+   {
+    "id": "1122729",
+    "date": "2017-12-20",
+    "opponent": "Sri Lanka",
+    "venue": "Barabati Stadium, Cuttack",
+    "runs": 39,
+    "balls": 22,
+    "notOut": true,
+    "result": "won",
+    "fours": 4,
+    "sixes": 1
+   },
+   {
+    "id": "1153696",
+    "date": "2019-02-06",
+    "opponent": "New Zealand",
+    "venue": "Westpac Stadium, Wellington",
+    "runs": 39,
+    "balls": 31,
+    "notOut": false,
+    "result": "lost",
+    "fours": 5,
+    "sixes": 1
+   },
+   {
+    "id": "565811",
+    "date": "2012-12-22",
+    "opponent": "England",
+    "venue": "Wankhede Stadium, Mumbai",
+    "runs": 38,
+    "balls": 18,
+    "notOut": false,
+    "result": "lost",
+    "fours": 3,
+    "sixes": 2
+   },
+   {
+    "id": "1034825",
+    "date": "2017-01-26",
+    "opponent": "England",
+    "venue": "Green Park, Kanpur",
+    "runs": 36,
+    "balls": 27,
+    "notOut": true,
+    "result": "lost",
+    "fours": 3,
+    "sixes": 0
+   },
+   {
+    "id": "287878",
+    "date": "2007-09-22",
+    "opponent": "Australia",
+    "venue": "Kingsmead, Durban",
+    "runs": 36,
+    "balls": 18,
+    "notOut": false,
+    "result": "won",
+    "fours": 4,
+    "sixes": 1
+   },
+   {
+    "id": "589307",
+    "date": "2012-12-28",
+    "opponent": "Pakistan",
+    "venue": "Sardar Patel Stadium, Motera, Ahmedabad",
+    "runs": 33,
+    "balls": 23,
+    "notOut": false,
+    "result": "won",
+    "fours": 4,
+    "sixes": 0
+   },
+   {
+    "id": "287862",
+    "date": "2007-09-14",
+    "opponent": "Pakistan",
+    "venue": "Kingsmead, Durban",
+    "runs": 33,
+    "balls": 31,
+    "notOut": false,
+    "result": "won",
+    "fours": 3,
+    "sixes": 1
+   }
+  ],
+  "IPL": [
+   {
+    "id": "1178414",
+    "date": "2019-04-21",
+    "opponent": "Royal Challengers Bangalore",
+    "venue": "M Chinnaswamy Stadium, Bengaluru",
+    "runs": 84,
+    "balls": 48,
+    "notOut": true,
+    "result": "lost",
+    "fours": 5,
+    "sixes": 7
+   },
+   {
+    "id": "1136572",
+    "date": "2018-04-15",
+    "opponent": "Kings XI Punjab",
+    "venue": "Punjab Cricket Association IS Bindra Stadium, Mohali, Chandigarh",
+    "runs": 79,
+    "balls": 44,
+    "notOut": true,
+    "result": "lost",
+    "fours": 6,
+    "sixes": 5
+   },
+   {
+    "id": "1175367",
+    "date": "2019-03-31",
+    "opponent": "Rajasthan Royals",
+    "venue": "MA Chidambaram Stadium",
+    "runs": 75,
+    "balls": 46,
+    "notOut": true,
+    "result": "won",
+    "fours": 4,
+    "sixes": 4
+   },
+   {
+    "id": "1136584",
+    "date": "2018-04-25",
+    "opponent": "Royal Challengers Bangalore",
+    "venue": "M Chinnaswamy Stadium, Bengaluru",
+    "runs": 70,
+    "balls": 34,
+    "notOut": true,
+    "result": "won",
+    "fours": 1,
+    "sixes": 7
+   },
+   {
+    "id": "501266",
+    "date": "2011-05-22",
+    "opponent": "Royal Challengers Bangalore",
+    "venue": "M Chinnaswamy Stadium, Bangalore",
+    "runs": 70,
+    "balls": 40,
+    "notOut": true,
+    "result": "lost",
+    "fours": 3,
+    "sixes": 6
+   },
+   {
+    "id": "598030",
+    "date": "2013-04-25",
+    "opponent": "Sunrisers Hyderabad",
+    "venue": "MA Chidambaram Stadium",
+    "runs": 67,
+    "balls": 37,
+    "notOut": true,
+    "result": "won",
+    "fours": 7,
+    "sixes": 4
+   },
+   {
+    "id": "419113",
+    "date": "2010-03-16",
+    "opponent": "Kolkata Knight Riders",
+    "venue": "Eden Gardens, Kolkata",
+    "runs": 66,
+    "balls": 33,
+    "notOut": true,
+    "result": "won",
+    "fours": 6,
+    "sixes": 3
+   },
+   {
+    "id": "335996",
+    "date": "2008-04-28",
+    "opponent": "Royal Challengers Bangalore",
+    "venue": "M Chinnaswamy Stadium, Bangalore",
+    "runs": 65,
+    "balls": 30,
+    "notOut": false,
+    "result": "won",
+    "fours": 9,
+    "sixes": 3
+   },
+   {
+    "id": "981005",
+    "date": "2016-05-21",
+    "opponent": "Kings XI Punjab",
+    "venue": "Andhra Cricket Association-Visakhapatnam District Cricket Association Stadium, Visakhapatnam",
+    "runs": 64,
+    "balls": 32,
+    "notOut": true,
+    "result": "won",
+    "fours": 4,
+    "sixes": 5
+   },
+   {
+    "id": "501253",
+    "date": "2011-05-12",
+    "opponent": "Delhi Daredevils",
+    "venue": "MA Chidambaram Stadium",
+    "runs": 63,
+    "balls": 31,
+    "notOut": true,
+    "result": "won",
+    "fours": 5,
+    "sixes": 4
+   },
+   {
+    "id": "598073",
+    "date": "2013-05-26",
+    "opponent": "Mumbai Indians",
+    "venue": "Eden Gardens, Kolkata",
+    "runs": 63,
+    "balls": 45,
+    "notOut": true,
+    "result": "lost",
+    "fours": 3,
+    "sixes": 5
+   },
+   {
+    "id": "1082615",
+    "date": "2017-04-22",
+    "opponent": "Sunrisers Hyderabad",
+    "venue": "Maharashtra Cricket Association Stadium, Pune",
+    "runs": 61,
+    "balls": 34,
+    "notOut": true,
+    "result": "won",
+    "fours": 5,
+    "sixes": 3
+   },
+   {
+    "id": "336013",
+    "date": "2008-05-10",
+    "opponent": "Kings XI Punjab",
+    "venue": "MA Chidambaram Stadium",
+    "runs": 60,
+    "balls": 43,
+    "notOut": true,
+    "result": "won",
+    "fours": 2,
+    "sixes": 4
+   },
+   {
+    "id": "598062",
+    "date": "2013-05-14",
+    "opponent": "Delhi Daredevils",
+    "venue": "MA Chidambaram Stadium",
+    "runs": 58,
+    "balls": 35,
+    "notOut": true,
+    "result": "won",
+    "fours": 2,
+    "sixes": 4
+   },
+   {
+    "id": "392209",
+    "date": "2009-05-04",
+    "opponent": "Deccan Chargers",
+    "venue": "Buffalo Park, East London",
+    "runs": 58,
+    "balls": 37,
+    "notOut": true,
+    "result": "won",
+    "fours": 6,
+    "sixes": 1
+   }
+  ]
+ },
+ "topKeeping": [
+  {
+   "id": "754741",
+   "format": "Test",
+   "date": "2014-12-26",
+   "opponent": "Australia",
+   "venue": "Melbourne Cricket Ground",
+   "catches": 8,
+   "stumpings": 1,
+   "dismissals": 9,
+   "result": "drawn"
+  },
+  {
+   "id": "434257",
+   "format": "Test",
+   "date": "2010-01-24",
+   "opponent": "Bangladesh",
+   "venue": "Shere Bangla National Stadium, Mirpur",
+   "catches": 6,
+   "stumpings": 2,
+   "dismissals": 8,
+   "result": "won"
+  },
+  {
+   "id": "535999",
+   "format": "Test",
+   "date": "2011-11-22",
+   "opponent": "West Indies",
+   "venue": "Wankhede Stadium, Mumbai",
+   "catches": 6,
+   "stumpings": 2,
+   "dismissals": 8,
+   "result": "drawn"
+  },
+  {
+   "id": "291353",
+   "format": "Test",
+   "date": "2008-01-16",
+   "opponent": "Australia",
+   "venue": "WACA, Perth",
+   "catches": 7,
+   "stumpings": 1,
+   "dismissals": 8,
+   "result": "won"
+  },
+  {
+   "id": "464527",
+   "format": "Test",
+   "date": "2010-10-09",
+   "opponent": "Australia",
+   "venue": "M Chinnaswamy Stadium, Bangalore",
+   "catches": 4,
+   "stumpings": 3,
+   "dismissals": 7,
+   "result": "won"
+  },
+  {
+   "id": "598814",
+   "format": "Test",
+   "date": "2013-03-14",
+   "opponent": "Australia",
+   "venue": "Punjab Cricket Association Stadium, Mohali, Chandigarh",
+   "catches": 5,
+   "stumpings": 2,
+   "dismissals": 7,
+   "result": "won"
+  },
+  {
+   "id": "366629",
+   "format": "Test",
+   "date": "2009-04-03",
+   "opponent": "New Zealand",
+   "venue": "Basin Reserve, Wellington",
+   "catches": 7,
+   "stumpings": 0,
+   "dismissals": 7,
+   "result": "drawn"
+  },
+  {
+   "id": "238186",
+   "format": "Test",
+   "date": "2006-03-09",
+   "opponent": "England",
+   "venue": "Punjab Cricket Association Stadium, Mohali, Chandigarh",
+   "catches": 5,
+   "stumpings": 1,
+   "dismissals": 6,
+   "result": "won"
+  },
+  {
+   "id": "239920",
+   "format": "Test",
+   "date": "2006-06-02",
+   "opponent": "West Indies",
+   "venue": "Antigua Recreation Ground, St John's",
+   "catches": 5,
+   "stumpings": 1,
+   "dismissals": 6,
+   "result": "drawn"
+  },
+  {
+   "id": "258475",
+   "format": "ODI",
+   "date": "2007-09-02",
+   "opponent": "England",
+   "venue": "Headingley",
+   "catches": 5,
+   "stumpings": 1,
+   "dismissals": 6,
+   "result": "won"
+  }
+ ],
+ "bowling": {
+  "Test": {
+   "balls": 96,
+   "runs": 67,
+   "wickets": 0,
+   "best": null
+  },
+  "ODI": {
+   "balls": 36,
+   "runs": 31,
+   "wickets": 1,
+   "best": "1/14"
+  },
+  "T20I": {
+   "balls": 0,
+   "runs": 0,
+   "wickets": 0,
+   "best": null
+  },
+  "IPL": {
+   "balls": 0,
+   "runs": 0,
+   "wickets": 0,
+   "best": null
+  }
+ }
+}

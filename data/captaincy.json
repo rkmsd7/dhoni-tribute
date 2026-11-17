@@ -1,0 +1,72 @@
+{
+  "intro": "He was given the job at 26 because the senior players did not want to play a format nobody rated. Nine and a half years later he had captained more internationals than anyone in history and won every ICC trophy there was to win. This page tries to explain how, with results rather than adjectives.",
+  "summary": [
+    { "format": "Tests", "matches": 60, "won": 27, "lost": 18, "drawn": 15, "tied": 0, "nr": 0, "span": "2008 – 2014", "winPct": 45.0 },
+    { "format": "ODIs", "matches": 200, "won": 110, "lost": 74, "drawn": 0, "tied": 5, "nr": 11, "span": "2007 – 2016", "winPct": 55.0 },
+    { "format": "T20Is", "matches": 72, "won": 41, "lost": 28, "drawn": 0, "tied": 1, "nr": 2, "span": "2007 – 2016", "winPct": 56.9 },
+    { "format": "All", "matches": 332, "won": 178, "lost": 120, "drawn": 15, "tied": 6, "nr": 13, "span": "2007 – 2016", "winPct": 53.6 }
+  ],
+  "iccTournaments": [
+    { "year": 2007, "event": "ICC World Twenty20, South Africa", "result": "Won", "note": "Beat Pakistan by 5 runs in the final" },
+    { "year": 2009, "event": "ICC World Twenty20, England", "result": "Super 8s", "note": "Lost all three Super 8 games" },
+    { "year": 2009, "event": "ICC Champions Trophy, South Africa", "result": "Group stage", "note": "One win, one loss, one washout" },
+    { "year": 2010, "event": "ICC World Twenty20, West Indies", "result": "Super 8s", "note": "Lost all three Super 8 games" },
+    { "year": 2011, "event": "ICC Cricket World Cup, India/Sri Lanka/Bangladesh", "result": "Won", "note": "Beat Sri Lanka by 6 wickets in the final; player of the match" },
+    { "year": 2012, "event": "ICC World Twenty20, Sri Lanka", "result": "Super 8s", "note": "Out on net run rate despite two Super 8 wins" },
+    { "year": 2013, "event": "ICC Champions Trophy, England", "result": "Won", "note": "Unbeaten; beat England by 5 runs in a 20-over final" },
+    { "year": 2014, "event": "ICC World Twenty20, Bangladesh", "result": "Runners-up", "note": "Lost final to Sri Lanka by 6 wickets" },
+    { "year": 2015, "event": "ICC Cricket World Cup, Australia/New Zealand", "result": "Semi-final", "note": "Seven wins from seven then lost to Australia in Sydney" },
+    { "year": 2016, "event": "ICC World Twenty20, India", "result": "Semi-final", "note": "Lost to West Indies at the Wankhede" }
+  ],
+  "otherTrophies": [
+    { "year": 2008, "event": "Commonwealth Bank Series, Australia", "note": "Beat Australia 2–0 in the finals" },
+    { "year": 2010, "event": "Asia Cup, Sri Lanka", "note": "Beat Sri Lanka in the final" },
+    { "year": 2013, "event": "Celkon Mobile Cup tri-series, West Indies", "note": "Beat Sri Lanka in the final; 15 off the last over" },
+    { "year": 2016, "event": "Asia Cup T20, Bangladesh", "note": "Beat Bangladesh in the final" }
+  ],
+  "testSeries": [
+    { "season": "2008", "opponent": "South Africa (home)", "result": "1–1", "note": "Stand-in captain for the Kanpur Test, won by 8 wickets" },
+    { "season": "2008-09", "opponent": "Australia (home)", "result": "2–0", "note": "Took over from Kumble mid-series; won Mohali and Nagpur" },
+    { "season": "2008-09", "opponent": "England (home)", "result": "1–0", "note": "Chased 387 at Chennai after the Mumbai attacks" },
+    { "season": "2009", "opponent": "New Zealand (away)", "result": "1–0", "note": "First series win in New Zealand since 1968" },
+    { "season": "2009-10", "opponent": "Sri Lanka (home)", "result": "2–0", "note": "Took India to No.1 in the rankings" },
+    { "season": "2009-10", "opponent": "Bangladesh (away)", "result": "2–0", "note": "" },
+    { "season": "2009-10", "opponent": "South Africa (home)", "result": "1–1", "note": "Retained No.1" },
+    { "season": "2010", "opponent": "Sri Lanka (away)", "result": "1–1", "note": "" },
+    { "season": "2010-11", "opponent": "Australia (home)", "result": "2–0", "note": "Laxman's 73* at Mohali" },
+    { "season": "2010-11", "opponent": "New Zealand (home)", "result": "1–0", "note": "" },
+    { "season": "2010-11", "opponent": "South Africa (away)", "result": "1–1", "note": "First Indian side not to lose a series in South Africa" },
+    { "season": "2011", "opponent": "West Indies (away)", "result": "1–0", "note": "" },
+    { "season": "2011", "opponent": "England (away)", "result": "0–4", "note": "Lost the No.1 ranking" },
+    { "season": "2011-12", "opponent": "West Indies (home)", "result": "2–0", "note": "" },
+    { "season": "2011-12", "opponent": "Australia (away)", "result": "0–4", "note": "Second consecutive overseas whitewash" },
+    { "season": "2012", "opponent": "New Zealand (home)", "result": "2–0", "note": "" },
+    { "season": "2012-13", "opponent": "England (home)", "result": "1–2", "note": "First home series defeat under Dhoni" },
+    { "season": "2012-13", "opponent": "Australia (home)", "result": "4–0", "note": "224 at Chennai; India's first whitewash of Australia" },
+    { "season": "2013-14", "opponent": "West Indies (home)", "result": "2–0", "note": "Tendulkar's farewell" },
+    { "season": "2013-14", "opponent": "South Africa (away)", "result": "0–1", "note": "" },
+    { "season": "2014", "opponent": "New Zealand (away)", "result": "0–1", "note": "" },
+    { "season": "2014", "opponent": "England (away)", "result": "1–3", "note": "Won at Lord's, lost the next three" },
+    { "season": "2014-15", "opponent": "Australia (away)", "result": "0–2 (as captain)", "note": "Missed Adelaide; retired after Melbourne" }
+  ],
+  "pillars": [
+    { "title": "Calm as a method, not a mood", "text": "He said the process mattered more than the result and set up decisions so that the result could not frighten him. In the 2011 final he had batted in the nets against Muralitharan for three IPL seasons; promoting himself above Yuvraj was a matching of skills, not bravado. His pulse famously barely moved; what the cameras could not see was the planning behind that.", "evidence": "2011 World Cup final: 114/3 → 277/4, 91* off 79. Post-match he said he went in because Murali was bowling and he knew him from Chennai." },
+    { "title": "Back the young, retire the old", "text": "Within six months of the 2007 World T20 he had left Tendulkar, Ganguly and Dravid out of the one-day side in Australia on the grounds of fielding and running. The CB Series win vindicated him. Rohit Sharma, Virat Kohli, Suresh Raina, Ravindra Jadeja and R. Ashwin were all persisted with through poor runs on his watch.", "evidence": "CB Series 2008 won with a squad whose average age was 24. Kohli was retained through the 2012 CB Series after calls for his dropping; he made 133* at Hobart." },
+    { "title": "Bowling changes by instinct, fields by arithmetic", "text": "Joginder Sharma over Harbhajan Singh for the last over of the 2007 final; Ishant Sharma for the 18th over of the 2013 final after being hit for 28 in his first three; Ashwin for the last over at Edgbaston. He preferred a bowler whose worst was predictable to a star having a bad night, and he set fields to where tired batters would hit, not where the textbook said.", "evidence": "2007: Pakistan 152/9 needing 13 off the last over, Joginder 1/20, India won by 5. 2013: Ishant 2 wickets in the 18th (Morgan, Bopara), England lose 4/8 in 12 balls." },
+    { "title": "Finish it yourself", "text": "The stat that defines him is not the average but the 84 ODI not-outs. He would take the chase to the last over with a rate the opposition thought was unreachable, because a bowler under pressure gives more than a batter who hurries. It cost him some games; it won far more.", "evidence": "ODI average batting second 50+, with the most not-outs in the format's history. 15 off the last over at Port of Spain 2013; 20* off 6 in the 2016 Asia Cup final." },
+    { "title": "Managing stars without noise", "text": "He handled Sehwag, Yuvraj, Gambhir and Harbhajan through fallings-out, the 2012 rotation policy and the ends of their careers without a single public row of his own making. His press conferences were long, dry and gave journalists nothing to run with. The criticism of him was almost always about selection, not conduct.", "evidence": "ICC Spirit of Cricket award 2011 for recalling Ian Bell; no disciplinary sanction in 332 matches as captain." },
+    { "title": "Know when to go", "text": "He gave up the Test captaincy mid-series at the MCG in 2014 with a draw still fresh, and the white-ball captaincy in January 2017 with a series win behind him, both times without a farewell match. He kept wicket for Kohli for two and a half more years.", "evidence": "BCCI releases of 30 December 2014 and 4 January 2017." }
+  ],
+  "scenarios": [
+    { "id": "2011-final", "title": "2011 World Cup final, Mumbai", "situation": "India 114/3 in the 22nd over chasing 275. Kohli has just been caught and bowled by Tillakaratne Dilshan. Yuvraj Singh, player of the tournament with 362 runs and 15 wickets, is padded up. Muttiah Muralitharan is in the attack.", "options": ["Send Yuvraj Singh, the form batter", "Send Suresh Raina for intent", "Captain goes in himself, 7 innings into a tournament without a fifty"], "actual": 2, "outcome": "Dhoni made 91* off 79, added 109 with Gambhir and 54* with Yuvraj, and won it with a six off Kulasekara with 10 balls to spare. He said afterwards that he knew Murali from the CSK nets and that it kept a left-right pair against Sri Lanka's spinners.", "source": "ESPNcricinfo scorecard and post-match press conference, 2 April 2011" },
+    { "id": "2007-final", "title": "2007 World T20 final, Johannesburg", "situation": "Pakistan 141/9, needing 13 off the last over with Misbah-ul-Haq on 37* and the last man in. Harbhajan Singh has an over left but went for 36 in three. Joginder Sharma, medium pace, has 0/16 from three.", "options": ["Harbhajan Singh — the experienced spinner", "Joginder Sharma — the unknown medium pacer", "RP Singh — the leading wicket-taker, but he has bowled out"], "actual": 1, "outcome": "Joginder's first ball was a wide, the second a dot, the third a six. Misbah then scooped the fourth to Sreesanth at short fine leg. India won by 5 runs and the format had its first champions.", "source": "ESPNcricinfo scorecard, 24 September 2007" },
+    { "id": "2007-bowlout", "title": "2007 World T20 group match, Durban — the bowl-out", "situation": "India v Pakistan is tied on 141. The tie-breaker is a bowl-out: five bowlers each aim one delivery at unguarded stumps. Who do you pick?", "options": ["Your fastest bowlers", "Your spinners and part-timers who bowl a straight line", "Your five best bowlers by reputation"], "actual": 1, "outcome": "He chose Sehwag, Harbhajan and Uthappa, who all hit. Pakistan's Arafat, Gul and Afridi all missed. India won 3–0. Dhoni said they had practised it the day before; Pakistan had not.", "source": "ESPNcricinfo match report, 14 September 2007" },
+    { "id": "2013-ct-final", "title": "2013 Champions Trophy final, Edgbaston", "situation": "Rain has made it 20 overs a side. India 129/7. England 110/4 after 17, needing 20 off 18, Morgan and Bopara set, 64 added. Ishant Sharma has gone for 27 in 3 overs. Jadeja, Ashwin and Umesh all have overs left.", "options": ["Ashwin — your best bowler, keep him for the 18th", "Umesh Yadav — pace at the death", "Ishant Sharma — the one who has been hit"], "actual": 2, "outcome": "Ishant bowled two wides, then had Morgan caught at midwicket and Bopara caught at short fine leg in the same over. Jadeja and Ashwin bowled the last two; England lost 4 wickets for 8 runs and finished 124/8. India won by 5 runs.", "source": "ESPNcricinfo scorecard, 23 June 2013" },
+    { "id": "2016-bangladesh", "title": "2016 World T20, Bengaluru — the last ball", "situation": "Bangladesh need 2 off the last ball with Shuvagata Hom on strike and Mustafizur Rahman at the non-striker's end. You are keeping to Hardik Pandya. Three balls earlier they needed 2 off 3 with Mahmudullah and Mushfiqur set; both have holed out.", "options": ["Stand back and trust the bowler", "Come up to the stumps to cut the single", "Take one glove off before the ball so you can throw"], "actual": 2, "outcome": "Pandya bowled a slower ball wide; Hom missed; Dhoni collected it already running and beat Mustafizur to the stumps. India won by one run and stayed in the tournament. He had taken his right glove off before the delivery.", "source": "ESPNcricinfo scorecard, 23 March 2016" },
+    { "id": "2013-trinidad", "title": "2013 tri-series final, Port of Spain", "situation": "India need 15 off the last over against Sri Lanka, with Ishant Sharma, the No.11, at the other end. Dhoni is 30* off 46 having come back from a hamstring injury. Shaminda Eranga to bowl.", "options": ["Take singles and keep strike for the big hits later", "Hit from ball one, then re-assess", "Trust Ishant for a single"], "actual": 1, "outcome": "Six over long-on, four through cover, six over midwicket. India won by one wicket with two balls to spare; Dhoni 45* off 52. He said he had decided to go for it from the first ball because the required rate left no room.", "source": "ESPNcricinfo scorecard, 11 July 2013" }
+  ],
+  "quotes": [
+    { "text": "I think the best thing about Dhoni is that he's very calm. Even in pressure situations he doesn't show it, and that helps everyone around him.", "source": "Sachin Tendulkar, 2011, widely reported interview after the World Cup" },
+    { "text": "One of the greatest Test captains India has had. His calmness under pressure has been his trademark.", "source": "BCCI statement on his Test retirement, 30 December 2014" }
+  ]
+}
